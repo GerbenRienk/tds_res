@@ -1,0 +1,42 @@
+// dot 2.28.0 on Windows Vista 6.0
+// SchemaSpy rev 590
+digraph "rule" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "rule" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">rule</TD></TR>
+      <TR><TD PORT="id" COLSPAN="3" BGCOLOR="#bed1b8" ALIGN="LEFT">id</TD></TR>
+      <TR><TD PORT="name" COLSPAN="3" ALIGN="LEFT">name</TD></TR>
+      <TR><TD PORT="description" COLSPAN="3" ALIGN="LEFT">description</TD></TR>
+      <TR><TD PORT="oc_oid" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">oc_oid</TD></TR>
+      <TR><TD PORT="enabled" COLSPAN="3" ALIGN="LEFT">enabled</TD></TR>
+      <TR><TD PORT="rule_expression_id" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">rule_expression_id</TD></TR>
+      <TR><TD PORT="owner_id" COLSPAN="3" ALIGN="LEFT">owner_id</TD></TR>
+      <TR><TD PORT="date_created" COLSPAN="3" ALIGN="LEFT">date_created</TD></TR>
+      <TR><TD PORT="date_updated" COLSPAN="3" ALIGN="LEFT">date_updated</TD></TR>
+      <TR><TD PORT="update_id" COLSPAN="3" ALIGN="LEFT">update_id</TD></TR>
+      <TR><TD PORT="status_id" COLSPAN="3" BGCOLOR="#f4f7da" ALIGN="LEFT">status_id</TD></TR>
+      <TR><TD PORT="version" COLSPAN="3" ALIGN="LEFT">version</TD></TR>
+      <TR><TD PORT="study_id" COLSPAN="3" ALIGN="LEFT">study_id</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/rule.html"
+    tooltip="rule"
+  ];
+}

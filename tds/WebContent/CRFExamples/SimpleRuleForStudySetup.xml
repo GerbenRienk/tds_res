@@ -1,0 +1,33 @@
+<!--
+Validation rules for EndOfStudy
+CRF Baseline form version 1
+Created by Gerben Rienk Visser
+http://www.trialdatasolutions.com
+Last update: 2010-10-24
+
+VARIABLES:
+Study event OID	: SE_ENDOFSTU	
+CRF version OID	: F_DCOG001BASEL_1
+Group OID	: IG_DCOG0_UNGROUPED
+Item OID	: I_DCOG0_ABNORMALFINDINGSXTHORAX 
+		  I_DCOG0_ABNORMALFINDINGSXTHORAXSPEC
+-->
+<RuleImport>
+
+	<RuleAssignment>
+		<Target Context="OC_RULES_V1">SE_ENDOFSTU.F_DCOG001BASEL_1.IG_DCOG0_UNGROUPED.I_DCOG0_ABNORMALFINDINGSXTHORAXSPEC</Target>
+		<RuleRef OID="R_I_DCOG0_001">
+			<DiscrepancyNoteAction IfExpressionEvaluates="True">
+				<Message>Please specify the abnormal findings.</Message>
+			</DiscrepancyNoteAction>
+		</RuleRef>
+	</RuleAssignment>
+
+	<RuleDef OID="R_I_DCOG0_001" Name="Specification of abnormal findings">
+		<Description>If abnormal findings, then specify</Description>
+		<Expression>I_DCOG0_ABNORMALFINDINGSXTHORAXSPEC eq 1 and I_DCOG0_ABNORMALFINDINGSXTHORAXSPEC eq ""</Expression>
+	</RuleDef>		
+	
+</RuleImport>
+
+

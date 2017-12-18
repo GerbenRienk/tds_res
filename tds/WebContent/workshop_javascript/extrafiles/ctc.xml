@@ -1,0 +1,2425 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SystemOrganClasses>
+	<SystemOrganClass SOCName="Blood and lymphatic system disorders">
+	<AETerm AETermName="Anemia" MedDRACode12="10002272">
+		<AETermDefinition>A disorder characterized by an reduction in the amount of hemoglobin in 100 ml of blood. Signs and symptoms of anemia may include pallor of the skin and mucous membranes, shortness of breath, palpitations of the heart, soft systolic murmurs, lethargy, and fatigability.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Blood and lymphatic system disorders - Other, specify" MedDRACode12="10005329">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bone marrow hypocellular" MedDRACode12="10048580">
+		<AETermDefinition>A disorder characterized by the inability of the bone marrow to produce hematopoietic elements.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Disseminated intravascular coagulation" MedDRACode12="10013442">
+		<AETermDefinition>A disorder characterized by systemic pathological activation of blood clotting mechanisms which results in clot formation throughout the body. There is an increase in the risk of hemorrhage as the body is depleted of platelets and coagulation factors.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Febrile neutropenia" MedDRACode12="10016288">
+		<AETermDefinition>A disorder characterized by an ANC &lt;1000/mm3 and a single temperature of &gt;38.3 degrees C (101 degrees F) or a sustained temperature of &gt;=38 degrees C (100.4 degrees F) for more than one hour</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hemolysis" MedDRACode12="10019491">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate widespread erythrocyte cell membrane destruction.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hemolytic uremic syndrome" MedDRACode12="10019515">
+		<AETermDefinition>A disorder characterized by a form of thrombotic microangiopathy with renal failure, hemolytic anemia, and severe thrombocytopenia.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Leukocytosis" MedDRACode12="10024378">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate an increased number of white blood cells in the blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lymph node pain" MedDRACode12="10025182">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in a lymph node.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Spleen disorder" MedDRACode12="10041633">
+		<AETermDefinition>A disorder of the spleen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Thrombotic thrombocytopenic purpura" MedDRACode12="10043648">
+		<AETermDefinition>A disorder characterized by the presence of microangiopathic hemolytic anemia, thrombocytopenic purpura, fever, renal abnormalities and neurological abnormalities such as seizures, hemiplegia, and visual disturbances. It is an acute or subacute condition.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Cardiac disorders">
+	<AETerm AETermName="Acute coronary syndrome" MedDRACode12="10051592">
+		<AETermDefinition>A disorder characterized by signs and symptoms related to acute ischemia of the myocardium secondary to coronary artery disease. The clinical presentation covers a spectrum of heart diseases from unstable angina to myocardial infarction.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Aortic valve disease" MedDRACode12="10061589">
+		<AETermDefinition>A disorder characterized by a defect in aortic valve function or structure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Asystole" MedDRACode12="10003586">
+		<AETermDefinition>A disorder characterized by a dysrhythmia without cardiac electrical activity. Typically, this is accompanied by cessation of the pumping function of the heart.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Atrial fibrillation" MedDRACode12="10003658">
+		<AETermDefinition>A disorder characterized by a dysrhythmia without discernible P waves and an irregular ventricular response due to multiple reentry circuits. The rhythm disturbance originates above the ventricles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Atrial flutter" MedDRACode12="10003662">
+		<AETermDefinition>A disorder characterized by a dysrhythmia with organized rhythmic atrial contractions with a rate of 200-300 beats per minute. The rhythm disturbance originates in the atria.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Atrioventricular block complete" MedDRACode12="10003673">
+		<AETermDefinition>A disorder characterized by a dysrhythmia with complete failure of atrial electrical impulse conduction through the AV node to the ventricles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Atrioventricular block first degree" MedDRACode12="10003674">
+		<AETermDefinition>A disorder characterized by a dysrhythmia with a delay in the time required for the conduction of an electrical impulse through the atrioventricular (AV) node beyond 0.2 seconds; prolongation of the PR interval greater than 200 milliseconds.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cardiac arrest" MedDRACode12="10007515">
+		<AETermDefinition>A disorder characterized by cessation of the pumping function of the heart.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cardiac disorders - Other, specify" MedDRACode12="10007541">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Chest pain - cardiac" MedDRACode12="10008481">
+		<AETermDefinition>A disorder characterized by substernal discomfort due to insufficient myocardial oxygenation.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Conduction disorder" MedDRACode12="10010276">
+		<AETermDefinition>A disorder characterized by pathological irregularities in the cardiac conduction system.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Constrictive pericarditis" MedDRACode12="10010783">
+		<AETermDefinition>A disorder characterized by a thickened and fibrotic pericardial sac; these fibrotic changes impede normal myocardial function by restricting myocardial muscle action.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Heart failure" MedDRACode12="10019279">
+		<AETermDefinition>A disorder characterized by the inability of the heart to pump blood at an adequate volume to meet tissue metabolic requirements, or, the ability to do so only at an elevation in the filling pressure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Left ventricular systolic dysfunction" MedDRACode12="10069501">
+		<AETermDefinition>A disorder characterized by failure of the left ventricle to produce adequate output despite an increase in distending pressure and in end-diastolic volume. Clinical manifestations may include dyspnea, orthopnea, and other signs and symptoms of pulmonary congestion and edema.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Mitral valve disease" MedDRACode12="10061532">
+		<AETermDefinition>A disorder characterized by a defect in mitral valve function or structure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Mobitz (type) II atrioventricular block" MedDRACode12="10027786">
+		<AETermDefinition>A disorder characterized by a dysrhythmia with relatively constant PR interval prior to the block of an atrial impulse. This is the result of intermittent failure of atrial electrical impulse conduction through the atrioventricular (AV) node to the ventricles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Mobitz type I" MedDRACode12="10027787">
+		<AETermDefinition>A disorder characterized by a dysrhythmia with a progressively lengthening PR interval prior to the blocking of an atrial impulse. This is the result of intermittent failure of atrial electrical impulse conduction through the atrioventricular (AV) node to the ventricles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Myocardial infarction" MedDRACode12="10028596">
+		<AETermDefinition>A disorder characterized by gross necrosis of the myocardium; this is due to an interruption of blood supply to the area.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Myocarditis" MedDRACode12="10028606">
+		<AETermDefinition>A disorder characterized by inflammation of the muscle tissue of the heart.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Palpitations" MedDRACode12="10033557">
+		<AETermDefinition>A disorder characterized by an unpleasant sensation of irregular and/or forceful beating of the heart.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Paroxysmal atrial tachycardia" MedDRACode12="10034040">
+		<AETermDefinition>A disorder characterized by a dysrhythmia with abrupt onset and sudden termination of atrial contractions with a rate of 150-250 beats per minute. The rhythm disturbance originates in the atria.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pericardial effusion" MedDRACode12="10034474">
+		<AETermDefinition>A disorder characterized by fluid collection within the pericardial sac, usually due to inflammation.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pericardial tamponade" MedDRACode12="10053565">
+		<AETermDefinition>A disorder characterized by an increase in intrapericardial pressure due to the collection of blood or fluid in the pericardium.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pericarditis" MedDRACode12="10034484">
+		<AETermDefinition>A disorder characterized by irritation to the layers of the pericardium (the protective sac around the heart).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pulmonary valve disease" MedDRACode12="10061541">
+		<AETermDefinition>A disorder characterized by a defect in pulmonary valve function or structure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Restrictive cardiomyopathy" MedDRACode12="10038748">
+		<AETermDefinition>A disorder characterized by an inability of the ventricles to fill with blood because the myocardium (heart muscle) stiffens and loses its flexibility.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Right ventricular dysfunction" MedDRACode12="10058597">
+		<AETermDefinition>A disorder characterized by impairment of right ventricular function associated with low ejection fraction and a decrease in motility of the right ventricular wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Sick sinus syndrome" MedDRACode12="10040639">
+		<AETermDefinition>A disorder characterized by a dysrhythmia with alternating periods of bradycardia and atrial tachycardia accompanied by syncope, fatigue and dizziness.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Sinus bradycardia" MedDRACode12="10040741">
+		<AETermDefinition>A disorder characterized by a dysrhythmia with a heart rate less than 60 beats per minute that originates in the sinus node.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Sinus tachycardia" MedDRACode12="10040752">
+		<AETermDefinition>A disorder characterized by a dysrhythmia with a heart rate greater than 100 beats per minute that originates in the sinus node.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Supraventricular tachycardia" MedDRACode12="10042604">
+		<AETermDefinition>A disorder characterized by a dysrhythmia with a heart rate greater than 100 beats per minute that originates above the ventricles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tricuspid valve disease" MedDRACode12="10061389">
+		<AETermDefinition>A disorder characterized by a defect in tricuspid valve function or structure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ventricular arrhythmia" MedDRACode12="10047281">
+		<AETermDefinition>A disorder characterized by a dysrhythmia that originates in the ventricles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ventricular fibrillation" MedDRACode12="10047290">
+		<AETermDefinition>A disorder characterized by a dysrhythmia without discernible QRS complexes due to rapid repetitive excitation of myocardial fibers without coordinated contraction of the ventricles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ventricular tachycardia" MedDRACode12="10047302">
+		<AETermDefinition>A disorder characterized by a dysrhythmia with a heart rate greater than 100 beats per minute that originates distal to the bundle of His.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Wolff-Parkinson-White syndrome" MedDRACode12="10048015">
+		<AETermDefinition>A disorder characterized by the presence of an accessory conductive pathway between the atria and the ventricles that causes premature ventricular activation.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Congenital, familial and genetic disorders">
+	<AETerm AETermName="Congenital, familial and genetic disorders - Other, specify" MedDRACode12="10010331">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Ear and labyrinth disorders">
+	<AETerm AETermName="Ear and labyrinth disorders - Other, specify" MedDRACode12="10013993">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ear pain" MedDRACode12="10014020">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the ear.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="External ear inflammation" MedDRACode12="10065837">
+		<AETermDefinition>A disorder characterized by inflammation, swelling and redness to the outer ear and ear canal.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="External ear pain" MedDRACode12="10065785">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the external ear region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hearing impaired" MedDRACode12="10019245">
+		<AETermDefinition>A disorder characterized by partial or complete loss of the ability to detect or understand sounds resulting from damage to ear structures.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Middle ear inflammation" MedDRACode12="10065838">
+		<AETermDefinition>A disorder characterized by inflammation (physiologic response to irritation), swelling and redness to the middle ear.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tinnitus" MedDRACode12="10043882">
+		<AETermDefinition>A disorder characterized by noise in the ears, such as ringing, buzzing, roaring or clicking.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vertigo" MedDRACode12="10047340">
+		<AETermDefinition>A disorder characterized by a sensation as if the external world were revolving around the patient (objective vertigo) or as if he himself were revolving in space (subjective vertigo).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vestibular disorder" MedDRACode12="10047386">
+		<AETermDefinition>A disorder characterized by dizziness, imbalance, nausea, and vision problems.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Endocrine disorders">
+	<AETerm AETermName="Adrenal insufficiency" MedDRACode12="10001367">
+		<AETermDefinition>A disorder that occurs when the adrenal cortex does not produce enough of the hormone cortisol and in some cases, the hormone aldosterone. It may be due to a disorder of the adrenal cortex as in Addison's disease or primary adrenal insufficiency.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cushingoid" MedDRACode12="10011655">
+		<AETermDefinition>A disorder characterized by signs and symptoms that resemble Cushing's disease or syndrome: buffalo hump obesity, striations, adiposity, hypertension, diabetes, and osteoporosis, usually due to exogenous corticosteroids.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Delayed puberty" MedDRACode12="10012205">
+		<AETermDefinition>A disorder characterized by unusually late sexual maturity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Endocrine disorders - Other, specify" MedDRACode12="10014698">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Growth accelerated" MedDRACode12="10018746">
+		<AETermDefinition>A disorder characterized by greater growth than expected for age.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hyperparathyroidism" MedDRACode12="10020705">
+		<AETermDefinition>A disorder characterized by an increase in production of parathyroid hormone by the parathyroid glands. This results in hypercalcemia (abnormally high levels of calcium in the blood).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hyperthyroidism" MedDRACode12="10020850">
+		<AETermDefinition>A disorder characterized by excessive levels of thyroid hormone in the body. Common causes include an overactive thyroid gland or thyroid hormone overdose.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypoparathyroidism" MedDRACode12="10021041">
+		<AETermDefinition>A disorder characterized by a decrease in production of parathyroid hormone by the parathyroid glands.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypothyroidism" MedDRACode12="10021114">
+		<AETermDefinition>A disorder characterized by a decrease in production of thyroid hormone by the thyroid gland.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Precocious puberty" MedDRACode12="10058084">
+		<AETermDefinition>A disorder characterized by unusually early development of secondary sexual features; the onset of sexual maturation begins usually before age 8 for girls and before age 9 for boys.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Virilization" MedDRACode12="10047488">
+		<AETermDefinition>A disorder characterized by inappropriate masculinization occurring in a female or prepubertal male.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Eye disorders">
+	<AETerm AETermName="Blurred vision" MedDRACode12="10005886">
+		<AETermDefinition>A disorder characterized by visual perception of unclear or fuzzy images.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cataract" MedDRACode12="10007739">
+		<AETermDefinition>A disorder characterized by partial or complete opacity of the crystalline lens of one or both eyes. This results in a decrease in visual acuity and eventual blindness if untreated.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Conjunctivitis" MedDRACode12="10010741">
+		<AETermDefinition>A disorder characterized by inflammation, swelling and redness to the conjunctiva of the eye.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Corneal ulcer" MedDRACode12="10048492">
+		<AETermDefinition>A disorder characterized by an area of epithelial tissue loss on the surface of the cornea. It is associated with inflammatory cells in the cornea and anterior chamber.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dry eye" MedDRACode12="10013774">
+		<AETermDefinition>A disorder characterized by dryness of the cornea and conjunctiva.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Extraocular muscle paresis" MedDRACode12="10015829">
+		<AETermDefinition>A disorder characterized by incomplete paralysis of an extraocular muscle.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Eye disorders - Other, specify" MedDRACode12="10015919">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Eye pain" MedDRACode12="10015958">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the eye.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Eyelid function disorder" MedDRACode12="10061145">
+		<AETermDefinition>A disorder characterized by impaired eyelid function.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Flashing lights" MedDRACode12="10016757">
+		<AETermDefinition>A disorder characterized by a sudden or brief burst of light.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Floaters" MedDRACode12="10016778">
+		<AETermDefinition>A disorder characterized by an individual seeing spots before their eyes. The spots are shadows of opaque cell fragments in the vitreous humor or lens.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Glaucoma" MedDRACode12="10018304">
+		<AETermDefinition>A disorder characterized by an increase in pressure in the eyeball due to obstruction of the aqueous humor outflow.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Keratitis" MedDRACode12="10023332">
+		<AETermDefinition>A disorder characterized by inflammation to the cornea of the eye.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Night blindness" MedDRACode12="10029404">
+		<AETermDefinition>A disorder characterized by an inability to see clearly in dim light.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Optic nerve disorder" MedDRACode12="10061322">
+		<AETermDefinition>A disorder characterized by involvement of the optic nerve (second cranial nerve).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Papilledema" MedDRACode12="10033703">
+		<AETermDefinition>A disorder characterized by swelling around the optic disc.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Photophobia" MedDRACode12="10034960">
+		<AETermDefinition>A disorder characterized by fear and avoidance of light.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Retinal detachment" MedDRACode12="10038848">
+		<AETermDefinition>A disorder characterized by the separation of the inner retina layers from the underlying pigment epithelium.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Retinal tear" MedDRACode12="10038897">
+		<AETermDefinition>A disorder characterized by a small laceration of the retina, this occurs when the vitreous separates from the retina. Symptoms include flashes and floaters.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Retinal vascular disorder" MedDRACode12="10038901">
+		<AETermDefinition>A disorder characterized by pathological retinal blood vessels that adversely affects vision.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Retinopathy" MedDRACode12="10038923">
+		<AETermDefinition>A disorder involving the retina.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Scleral disorder" MedDRACode12="10061510">
+		<AETermDefinition>A disorder characterized by involvement of the sclera of the eye.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Uveitis" MedDRACode12="10046851">
+		<AETermDefinition>A disorder characterized by inflammation to the uvea of the eye.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vitreous hemorrhage" MedDRACode12="10047656">
+		<AETermDefinition>A disorder characterized by blood extravasation into the vitreous humor.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Watering eyes" MedDRACode12="10047848">
+		<AETermDefinition>A disorder of excessive tearing in the eyes; it can be caused by overproduction of tears or impaired drainage of the tear duct.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Gastrointestinal disorders">
+	<AETerm AETermName="Abdominal distension" MedDRACode12="10000060">
+		<AETermDefinition>A disorder characterized by swelling of the abdomen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Abdominal pain" MedDRACode12="10000081">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the abdominal region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Anal fistula" MedDRACode12="10002156">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the opening in the anal canal to the perianal skin.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Anal hemorrhage" MedDRACode12="10055226">
+		<AETermDefinition>A disorder characterized by bleeding from the anal region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Anal mucositis" MedDRACode12="10065721">
+		<AETermDefinition>A disorder characterized by inflammation of the mucous membrane of the anus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Anal necrosis" MedDRACode12="10065722">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the anal region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Anal pain" MedDRACode12="10002167">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the anal region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Anal stenosis" MedDRACode12="10002176">
+		<AETermDefinition>A disorder characterized by a narrowing of the lumen of the anal canal.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Anal ulcer" MedDRACode12="10002180">
+		<AETermDefinition>A disorder characterized by a circumscribed, inflammatory and necrotic erosive lesion on the mucosal surface of the anal canal.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ascites" MedDRACode12="10003445">
+		<AETermDefinition>A disorder characterized by accumulation of serous or hemorrhagic fluid in the peritoneal cavity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bloating" MedDRACode12="10005265">
+		<AETermDefinition>A disorder characterized by subject-reported feeling of uncomfortable fullness of the abdomen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cecal hemorrhage" MedDRACode12="10065747">
+		<AETermDefinition>A disorder characterized by bleeding from the cecum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cheilitis" MedDRACode12="10008417">
+		<AETermDefinition>A disorder characterized by inflammation of the lip.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Colitis" MedDRACode12="10009887">
+		<AETermDefinition>A disorder characterized by inflammation of the colon.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Colonic fistula" MedDRACode12="10009995">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the large intestine and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Colonic hemorrhage" MedDRACode12="10009998">
+		<AETermDefinition>A disorder characterized by bleeding from the colon.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Colonic obstruction" MedDRACode12="10010000">
+		<AETermDefinition>A disorder characterized by blockage of the normal flow of the intestinal contents in the colon.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Colonic perforation" MedDRACode12="10010001">
+		<AETermDefinition>A disorder characterized by a rupture in the colonic wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Colonic stenosis" MedDRACode12="10010004">
+		<AETermDefinition>A disorder characterized by a narrowing of the lumen of the colon.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Colonic ulcer" MedDRACode12="10010006">
+		<AETermDefinition>A disorder characterized by a circumscribed, inflammatory and necrotic erosive lesion on the mucosal surface of the colon.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Constipation" MedDRACode12="10010774">
+		<AETermDefinition>A disorder characterized by irregular and infrequent or difficult evacuation of the bowels.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dental caries" MedDRACode12="10012318">
+		<AETermDefinition>A disorder characterized by the decay of a tooth, in which it becomes softened, discolored and/or porous.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Diarrhea" MedDRACode12="10012727">
+		<AETermDefinition>A disorder characterized by frequent and watery bowel movements.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dry mouth" MedDRACode12="10013781">
+		<AETermDefinition>A disorder characterized by reduced salivary flow in the oral cavity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Duodenal fistula" MedDRACode12="10013828">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the duodenum and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Duodenal hemorrhage" MedDRACode12="10055242">
+		<AETermDefinition>A disorder characterized by bleeding from the duodenum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Duodenal obstruction" MedDRACode12="10013830">
+		<AETermDefinition>A disorder characterized by blockage of the normal flow of stomach contents through the duodenum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Duodenal perforation" MedDRACode12="10013832">
+		<AETermDefinition>A disorder characterized by a rupture in the duodenal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Duodenal stenosis" MedDRACode12="10050094">
+		<AETermDefinition>A disorder characterized by a narrowing of the lumen of the duodenum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Duodenal ulcer" MedDRACode12="10013836">
+		<AETermDefinition>A disorder characterized by a circumscribed, inflammatory and necrotic erosive lesion on the mucosal surface of the duodenal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dyspepsia" MedDRACode12="10013946">
+		<AETermDefinition>A disorder characterized by an uncomfortable, often painful feeling in the stomach, resulting from impaired digestion. Symptoms include burning stomach, bloating, heartburn, nausea and vomiting.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dysphagia" MedDRACode12="10013950">
+		<AETermDefinition>A disorder characterized by difficulty in swallowing.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Enterocolitis" MedDRACode12="10014893">
+		<AETermDefinition>A disorder characterized by inflammation of the small and large intestines.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Enterovesical fistula" MedDRACode12="10062570">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the urinary bladder and the intestine.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Esophageal fistula" MedDRACode12="10065851">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the esophagus and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Esophageal hemorrhage" MedDRACode12="10015384">
+		<AETermDefinition>A disorder characterized by bleeding from the esophagus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Esophageal necrosis" MedDRACode12="10065727">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the esophageal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Esophageal obstruction" MedDRACode12="10015387">
+		<AETermDefinition>A disorder characterized by blockage of the normal flow of the contents in the esophagus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Esophageal pain" MedDRACode12="10015388">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the esophageal region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Esophageal perforation" MedDRACode12="10055472">
+		<AETermDefinition>A disorder characterized by a rupture in the wall of the esophagus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Esophageal stenosis" MedDRACode12="10015448">
+		<AETermDefinition>A disorder characterized by a narrowing of the lumen of the esophagus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Esophageal ulcer" MedDRACode12="10015451">
+		<AETermDefinition>A disorder characterized by a circumscribed, inflammatory and necrotic erosive lesion on the mucosal surface of the esophageal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Esophageal varices hemorrhage" MedDRACode12="10015453">
+		<AETermDefinition>A disorder characterized by bleeding from esophageal varices.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Esophagitis" MedDRACode12="10015461">
+		<AETermDefinition>A disorder characterized by inflammation of the esophageal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fecal incontinence" MedDRACode12="10016296">
+		<AETermDefinition>A disorder characterized by inability to control the escape of stool from the rectum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Flatulence" MedDRACode12="10016766">
+		<AETermDefinition>A disorder characterized by a state of excessive gas in the alimentary canal.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastric fistula" MedDRACode12="10065713">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the stomach and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastric hemorrhage" MedDRACode12="10017789">
+		<AETermDefinition>A disorder characterized by bleeding from the gastric wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastric necrosis" MedDRACode12="10051886">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the gastric wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastric perforation" MedDRACode12="10017815">
+		<AETermDefinition>A disorder characterized by a rupture in the stomach wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastric stenosis" MedDRACode12="10061970">
+		<AETermDefinition>A disorder characterized by a narrowing of the lumen of the stomach.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastric ulcer" MedDRACode12="10017822">
+		<AETermDefinition>A disorder characterized by a circumscribed, inflammatory and necrotic erosive lesion on the mucosal surface of the stomach.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastritis" MedDRACode12="10017853">
+		<AETermDefinition>A disorder characterized by inflammation of the stomach.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastroesophageal reflux disease" MedDRACode12="10066874">
+		<AETermDefinition>A disorder characterized by reflux of the gastric and/or duodenal contents into the distal esophagus. It is chronic in nature and usually caused by incompetence of the lower esophageal sphincter, and may result in injury to the esophageal mucosal. Symptoms include heartburn and acid indigestion.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastrointestinal disorders - Other, specify" MedDRACode12="10017947">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastrointestinal fistula" MedDRACode12="10017877">
+		<AETermDefinition>A disorder characterized by an abnormal communication between any part of the gastrointestinal system and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastrointestinal pain" MedDRACode12="10017999">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the gastrointestinal region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastroparesis" MedDRACode12="10018043">
+		<AETermDefinition>A disorder characterized by an incomplete paralysis of the muscles of the stomach wall resulting in delayed emptying of the gastric contents into the small intestine.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gingival pain" MedDRACode12="10018286">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the gingival region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hemorrhoidal hemorrhage" MedDRACode12="10060640">
+		<AETermDefinition>A disorder characterized by bleeding from the hemorrhoids.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hemorrhoids" MedDRACode12="10019611">
+		<AETermDefinition>A disorder characterized by the presence of dilated veins in the rectum and surrounding area.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ileal fistula" MedDRACode12="10065728">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the ileum and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ileal hemorrhage" MedDRACode12="10055287">
+		<AETermDefinition>A disorder characterized by bleeding from the ileal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ileal obstruction" MedDRACode12="10065730">
+		<AETermDefinition>A disorder characterized by blockage of the normal flow of the intestinal contents in the ileum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ileal perforation" MedDRACode12="10021305">
+		<AETermDefinition>A disorder characterized by a rupture in the ileal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ileal stenosis" MedDRACode12="10021307">
+		<AETermDefinition>A disorder characterized by a narrowing of the lumen of the ileum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ileal ulcer" MedDRACode12="10021309">
+		<AETermDefinition>A disorder characterized by a circumscribed, inflammatory and necrotic erosive lesion on the mucosal surface of the ileum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ileus" MedDRACode12="10021328">
+		<AETermDefinition>A disorder characterized by failure of the ileum to transport intestinal contents.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intra-abdominal hemorrhage" MedDRACode12="10055291">
+		<AETermDefinition>A disorder characterized by bleeding in the abdominal cavity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Jejunal fistula" MedDRACode12="10065719">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the jejunum and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Jejunal hemorrhage" MedDRACode12="10055300">
+		<AETermDefinition>A disorder characterized by bleeding from the jejunal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Jejunal obstruction" MedDRACode12="10065732">
+		<AETermDefinition>A disorder characterized by blockage of the normal flow of the intestinal contents in the jejunum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Jejunal perforation" MedDRACode12="10023174">
+		<AETermDefinition>A disorder characterized by a rupture in the jejunal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Jejunal stenosis" MedDRACode12="10023176">
+		<AETermDefinition>A disorder characterized by a narrowing of the lumen of the jejunum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Jejunal ulcer" MedDRACode12="10023177">
+		<AETermDefinition>A disorder characterized by a circumscribed, inflammatory and necrotic erosive lesion on the mucosal surface of the jejunum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lip pain" MedDRACode12="10024561">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort of the lip.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lower gastrointestinal hemorrhage" MedDRACode12="10051746">
+		<AETermDefinition>A disorder characterized by bleeding from the lower gastrointestinal tract (small intestine, large intestine, and anus).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Malabsorption" MedDRACode12="10025476">
+		<AETermDefinition>A disorder characterized by inadequate absorption of nutrients in the small intestine. Symptoms include abdominal marked discomfort, bloating and diarrhea.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Mucositis oral" MedDRACode12="10028130">
+		<AETermDefinition>A disorder characterized by inflammation of the oral mucosal.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Nausea" MedDRACode12="10028813">
+		<AETermDefinition>A disorder characterized by a queasy sensation and/or the urge to vomit.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Obstruction gastric" MedDRACode12="10029957">
+		<AETermDefinition>A disorder characterized by blockage of the normal flow of the contents in the stomach.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Oral cavity fistula" MedDRACode12="10065720">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the oral cavity and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Oral dysesthesia" MedDRACode12="10054520">
+		<AETermDefinition>A disorder characterized by a burning or tingling sensation on the lips, tongue or entire mouth.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Oral hemorrhage" MedDRACode12="10030980">
+		<AETermDefinition>A disorder characterized by bleeding from the mouth.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Oral pain" MedDRACode12="10031009">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the mouth, tongue or lips.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pancreatic duct stenosis" MedDRACode12="10065703">
+		<AETermDefinition>A disorder characterized by a narrowing of the lumen of the pancreatic duct.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pancreatic fistula" MedDRACode12="10049192">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the pancreas and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pancreatic hemorrhage" MedDRACode12="10033626">
+		<AETermDefinition>A disorder characterized by bleeding from the pancreas.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pancreatic necrosis" MedDRACode12="10058096">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the pancreas.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pancreatitis" MedDRACode12="10033645">
+		<AETermDefinition>A disorder characterized by inflammation of the pancreas.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Periodontal disease" MedDRACode12="10034536">
+		<AETermDefinition>A disorder in the gingival tissue around the teeth.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Peritoneal necrosis" MedDRACode12="10065704">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the peritoneum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Proctitis" MedDRACode12="10036774">
+		<AETermDefinition>A disorder characterized by inflammation of the rectum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rectal fistula" MedDRACode12="10038062">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the rectum and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rectal hemorrhage" MedDRACode12="10038064">
+		<AETermDefinition>A disorder characterized by bleeding from the rectal wall and discharged from the anus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rectal mucositis" MedDRACode12="10063190">
+		<AETermDefinition>A disorder characterized by inflammation of the mucous membrane of the rectum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rectal necrosis" MedDRACode12="10065709">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the rectal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rectal obstruction" MedDRACode12="10065707">
+		<AETermDefinition>A disorder characterized by blockage of the normal flow of the intestinal contents in the rectum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rectal pain" MedDRACode12="10038072">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the rectal region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rectal perforation" MedDRACode12="10038073">
+		<AETermDefinition>A disorder characterized by a rupture in the rectal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rectal stenosis" MedDRACode12="10038079">
+		<AETermDefinition>A disorder characterized by a narrowing of the lumen of the rectum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rectal ulcer" MedDRACode12="10038080">
+		<AETermDefinition>A disorder characterized by a circumscribed, inflammatory and necrotic erosive lesion on the mucosal surface of the rectum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Retroperitoneal hemorrhage" MedDRACode12="10038981">
+		<AETermDefinition>A disorder characterized by bleeding from the retroperitoneal area.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Salivary duct inflammation" MedDRACode12="10056681">
+		<AETermDefinition>A disorder characterized by inflammation of the salivary duct.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Salivary gland fistula" MedDRACode12="10039411">
+		<AETermDefinition>A disorder characterized by an abnormal communication between a salivary gland and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Small intestinal mucositis" MedDRACode12="10065710">
+		<AETermDefinition>A disorder characterized by inflammation of the mucous membrane of the small intestine.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Small intestinal obstruction" MedDRACode12="10041101">
+		<AETermDefinition>A disorder characterized by blockage of the normal flow of the intestinal contents.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Small intestinal perforation" MedDRACode12="10041103">
+		<AETermDefinition>A disorder characterized by a rupture in the small intestine wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Small intestinal stenosis" MedDRACode12="10062263">
+		<AETermDefinition>A disorder characterized by a narrowing of the lumen of the small intestine.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Small intestine ulcer" MedDRACode12="10041133">
+		<AETermDefinition>A disorder characterized by a circumscribed, inflammatory and necrotic erosive lesion on the mucosal surface of the small intestine.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Stomach pain" MedDRACode12="10042112">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the stomach.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tooth development disorder" MedDRACode12="10044030">
+		<AETermDefinition>A disorder characterized by a pathological process of the teeth occurring during tooth development.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tooth discoloration" MedDRACode12="10044031">
+		<AETermDefinition>A disorder characterized by a change in tooth hue or tint.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Toothache" MedDRACode12="10044055">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the tooth.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Typhlitis" MedDRACode12="10045271">
+		<AETermDefinition>A disorder characterized by inflammation of the cecum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Upper gastrointestinal hemorrhage" MedDRACode12="10055356">
+		<AETermDefinition>A disorder characterized by bleeding from the upper gastrointestinal tract (oral cavity, pharynx, esophagus, and stomach).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vomiting" MedDRACode12="10047700">
+		<AETermDefinition>A disorder characterized by the reflexive act of ejecting the contents of the stomach through the mouth.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="General disorders and administration site conditions">
+	<AETerm AETermName="Chills" MedDRACode12="10008531">
+		<AETermDefinition>A disorder characterized by a sensation of cold that often marks a physiologic response to sweating after a fever.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Death neonatal" MedDRACode12="10011912">
+		<AETermDefinition>A disorder characterized by cessation of life occurring during the first 28 days of life.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Death NOS" MedDRACode12="10011914">
+		<AETermDefinition>A cessation of life that cannot be attributed to a CTCAE term associated with Grade 5.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Edema face" MedDRACode12="10014222">
+		<AETermDefinition>A disorder characterized by swelling due to excessive fluid accumulation in facial tissues.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Edema limbs" MedDRACode12="10050068">
+		<AETermDefinition>A disorder characterized by swelling due to excessive fluid accumulation in the upper or lower extremities.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Edema trunk" MedDRACode12="10058720">
+		<AETermDefinition>A disorder characterized by swelling due to excessive fluid accumulation in the trunk area.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Facial pain" MedDRACode12="10016059">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the face.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fatigue" MedDRACode12="10016256">
+		<AETermDefinition>A disorder characterized by a state of generalized weakness with a pronounced inability to summon sufficient energy to accomplish daily activities.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fever" MedDRACode12="10016558">
+		<AETermDefinition>A disorder characterized by elevation of the body's temperature above the upper limit of normal.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Flu like symptoms" MedDRACode12="10016791">
+		<AETermDefinition>A disorder characterized by a group of symptoms similar to those observed in patients with the flu. It includes fever, chills, body aches, malaise, loss of appetite and dry cough.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gait disturbance" MedDRACode12="10017577">
+		<AETermDefinition>A disorder characterized by walking difficulties.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="General disorders and administration site conditions - Other, specify" MedDRACode12="10018065">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypothermia" MedDRACode12="10021113">
+		<AETermDefinition>A disorder characterized by an abnormally low body temperature. Treatment is required when the body temperature is 35C (95F) or below.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Infusion related reaction" MedDRACode12="10051792">
+		<AETermDefinition>A disorder characterized by adverse reaction to the infusion of pharmacological or biological substances.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Infusion site extravasation" MedDRACode12="10064774">
+		<AETermDefinition>A disorder characterized by leakage of a pharmacologic or a biologic substance from the infusion site into the surrounding tissue. Signs and symptoms include induration, erythema, swelling, burning sensation and marked discomfort at the infusion site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Injection site reaction" MedDRACode12="10022095">
+		<AETermDefinition>A disorder characterized by an intense adverse reaction (usually immunologic) developing at the site of an injection.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Irritability" MedDRACode12="10022998">
+		<AETermDefinition>A disorder characterized by an abnormal responsiveness to stimuli or physiological arousal; may be in response to pain, fright, a drug, an emotional situation or a medical condition.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Localized edema" MedDRACode12="10062466">
+		<AETermDefinition>A disorder characterized by swelling due to excessive fluid accumulation at a specific anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Malaise" MedDRACode12="10025482">
+		<AETermDefinition>A disorder characterized by a feeling of general discomfort or uneasiness, an out-of-sorts feeling.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Multi-organ failure" MedDRACode12="10028154">
+		<AETermDefinition>A disorder characterized by progressive deterioration of the lungs, liver, kidney and clotting mechanisms.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Neck edema" MedDRACode12="10054482">
+		<AETermDefinition>A disorder characterized by swelling due to an accumulation of excessive fluid in the neck.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Non-cardiac chest pain" MedDRACode12="10062501">
+		<AETermDefinition>A disorder characterized by discomfort in the chest unrelated to a heart disorder.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pain" MedDRACode12="10033371">
+		<AETermDefinition>A disorder characterized by the sensation of marked discomfort, distress or agony.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Sudden death NOS" MedDRACode12="10042435">
+		<AETermDefinition>An unexpected cessation of life that cannot be attributed to a CTCAE term associated with Grade 5.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Hepatobiliary disorders">
+	<AETerm AETermName="Bile duct stenosis" MedDRACode12="10051341">
+		<AETermDefinition>A disorder characterized by a narrowing of the lumen of the bile duct.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Biliary fistula" MedDRACode12="10004665">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the bile ducts and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cholecystitis" MedDRACode12="10008612">
+		<AETermDefinition>A disorder characterized by inflammation involving the gallbladder. It may be associated with the presence of gallstones.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gallbladder fistula" MedDRACode12="10017631">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the gallbladder and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gallbladder necrosis" MedDRACode12="10059446">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the gallbladder.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gallbladder obstruction" MedDRACode12="10017636">
+		<AETermDefinition>A disorder characterized by blockage of the normal flow of the contents of the gallbladder.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gallbladder pain" MedDRACode12="10017638">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the gallbladder region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gallbladder perforation" MedDRACode12="10017639">
+		<AETermDefinition>A disorder characterized by a rupture in the gallbladder wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hepatic failure" MedDRACode12="10019663">
+		<AETermDefinition>A disorder characterized by the inability of the liver to metabolize chemicals in the body. Laboratory test results reveal abnormal plasma levels of ammonia, bilirubin, lactic dehydrogenase, and alkaline phosphatase.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hepatic hemorrhage" MedDRACode12="10019678">
+		<AETermDefinition>A disorder characterized by bleeding from the liver.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hepatic necrosis" MedDRACode12="10019692">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the hepatic parenchyma.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hepatic pain" MedDRACode12="10019705">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the liver region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hepatobiliary disorders - Other, specify" MedDRACode12="10019805">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Perforation bile duct" MedDRACode12="10034405">
+		<AETermDefinition>A disorder characterized by a rupture in the wall of the extrahepatic or intrahepatic bile duct.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Portal hypertension" MedDRACode12="10036200">
+		<AETermDefinition>A disorder characterized by an increase in blood pressure in the portal venous system.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Portal vein thrombosis" MedDRACode12="10036206">
+		<AETermDefinition>A disorder characterized by the formation of a thrombus (blood clot) in the portal vein.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Immune system disorders">
+	<AETerm AETermName="Allergic reaction" MedDRACode12="10001718">
+		<AETermDefinition>A disorder characterized by an adverse local or general response from exposure to an allergen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Anaphylaxis" MedDRACode12="10002218">
+		<AETermDefinition>A disorder characterized by an acute inflammatory reaction resulting from the release of histamine and histamine-like substances from mast cells, causing a hypersensitivity immune response. Clinically, it presents with breathing difficulty, dizziness, hypotension, cyanosis and loss of consciousness and may lead to death.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Autoimmune disorder" MedDRACode12="10061664">
+		<AETermDefinition>A disorder resulting from loss of function or tissue destruction of an organ or multiple organs, arising from humoral or cellular immune responses of the individual to his own tissue constituents.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cytokine release syndrome" MedDRACode12="10052015">
+		<AETermDefinition>A disorder characterized by nausea, headache, tachycardia, hypotension, rash, and shortness of breath; it is caused by the release of cytokines from the cells.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Immune system disorders - Other, specify" MedDRACode12="10021428">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Serum sickness" MedDRACode12="10040400">
+		<AETermDefinition>A disorder characterized by a delayed-type hypersensitivity reaction to foreign proteins derived from an animal serum. It occurs approximately six to twenty-one days following the administration of the foreign antigen. Symptoms include fever, arthralgias, myalgias, skin eruptions, lymphadenopathy, chest marked discomfort and dyspnea.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Infections and infestations">
+	<AETerm AETermName="Abdominal infection" MedDRACode12="10056519">
+		<AETermDefinition>A disorder characterized by an infectious process involving the abdominal cavity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Anorectal infection" MedDRACode12="10061640">
+		<AETermDefinition>A disorder characterized by an infectious process involving the anal area and the rectum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Appendicitis" MedDRACode12="10003011">
+		<AETermDefinition>A disorder characterized by acute inflammation to the vermiform appendix caused by a pathogenic agent.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Appendicitis perforated" MedDRACode12="10003012">
+		<AETermDefinition>A disorder characterized by acute inflammation to the vermiform appendix caused by a pathogenic agent with gangrenous changes resulting in the rupture of the appendiceal wall. The appendiceal wall rupture causes the release of inflammatory and bacterial contents from the appendiceal lumen into the abdominal cavity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Arteritis infective" MedDRACode12="10065744">
+		<AETermDefinition>A disorder characterized by an infectious process involving an artery.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Biliary tract infection" MedDRACode12="10061695">
+		<AETermDefinition>A disorder characterized by an infectious process involving the biliary tract.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bladder infection" MedDRACode12="10005047">
+		<AETermDefinition>A disorder characterized by an infectious process involving the bladder.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bone infection" MedDRACode12="10061017">
+		<AETermDefinition>A disorder characterized by an infectious process involving the bones.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Breast infection" MedDRACode12="10006259">
+		<AETermDefinition>A disorder characterized by an infectious process involving the breast.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bronchial infection" MedDRACode12="10055078">
+		<AETermDefinition>A disorder characterized by an infectious process involving the bronchi.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Catheter related infection" MedDRACode12="10007810">
+		<AETermDefinition>A disorder characterized by an infectious process that arises secondary to catheter use.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cecal infection" MedDRACode12="10065761">
+		<AETermDefinition>A disorder characterized by an infectious process involving the cecum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cervicitis infection" MedDRACode12="10008330">
+		<AETermDefinition>A disorder characterized by an infectious process involving the uterine cervix.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Conjunctivitis infective" MedDRACode12="10010742">
+		<AETermDefinition>A disorder characterized by an infectious process involving the conjunctiva. Clinical manifestations include pink or red color in the eyes.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Corneal infection" MedDRACode12="10061788">
+		<AETermDefinition>A disorder characterized by an infectious process involving the cornea.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cranial nerve infection" MedDRACode12="10065765">
+		<AETermDefinition>A disorder characterized by an infectious process involving a cranial nerve.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Device related infection" MedDRACode12="10064687">
+		<AETermDefinition>A disorder characterized by an infectious process involving the use of a medical device.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Duodenal infection" MedDRACode12="10065752">
+		<AETermDefinition>A disorder characterized by an infectious process involving the duodenum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Encephalitis infection" MedDRACode12="10014594">
+		<AETermDefinition>A disorder characterized by an infectious process involving the brain tissue.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Encephalomyelitis infection" MedDRACode12="10014621">
+		<AETermDefinition>A disorder characterized by an infectious process involving the brain and spinal cord tissues.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Endocarditis infective" MedDRACode12="10014678">
+		<AETermDefinition>A disorder characterized by an infectious process involving the endocardial layer of the heart.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Endophthalmitis" MedDRACode12="10014801">
+		<AETermDefinition>A disorder characterized by an infectious process involving the internal structures of the eye.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Enterocolitis infectious" MedDRACode12="10058838">
+		<AETermDefinition>A disorder characterized by an infectious process involving the small and large intestines.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Esophageal infection" MedDRACode12="10058804">
+		<AETermDefinition>A disorder characterized by an infectious process involving the esophagus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Eye infection" MedDRACode12="10015929">
+		<AETermDefinition>A disorder characterized by an infectious process involving the eye.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gallbladder infection" MedDRACode12="10062632">
+		<AETermDefinition>A disorder characterized by an infectious process involving the gallbladder.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gum infection" MedDRACode12="10018784">
+		<AETermDefinition>A disorder characterized by an infectious process involving the gums.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hepatic infection" MedDRACode12="10056522">
+		<AETermDefinition>A disorder characterized by an infectious process involving the liver.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hepatitis viral" MedDRACode12="10019799">
+		<AETermDefinition>A disorder characterized by a viral pathologic process involving the liver parenchyma.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Infections and infestations - Other, specify" MedDRACode12="10021881">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Infective myositis" MedDRACode12="10021918">
+		<AETermDefinition>A disorder characterized by an infectious process involving the skeletal muscles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Joint infection" MedDRACode12="10023216">
+		<AETermDefinition>A disorder characterized by an infectious process involving a joint.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Kidney infection" MedDRACode12="10023424">
+		<AETermDefinition>A disorder characterized by an infectious process involving the kidney.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Laryngitis" MedDRACode12="10023874">
+		<AETermDefinition>A disorder characterized by an inflammatory process involving the larynx.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lip infection" MedDRACode12="10065755">
+		<AETermDefinition>A disorder characterized by an infectious process involving the lips.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lung infection" MedDRACode12="10061229">
+		<AETermDefinition>A disorder characterized by an infectious process involving the lungs.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lymph gland infection" MedDRACode12="10050823">
+		<AETermDefinition>A disorder characterized by an infectious process involving the lymph nodes.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Mediastinal infection" MedDRACode12="10057483">
+		<AETermDefinition>A disorder characterized by an infectious process involving the mediastinum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Meningitis" MedDRACode12="10027199">
+		<AETermDefinition>A disorder characterized by acute inflammation of the meninges of the brain and/or spinal cord.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Mucosal infection" MedDRACode12="10065764">
+		<AETermDefinition>A disorder characterized by an infectious process involving a mucosal surface.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Nail infection" MedDRACode12="10061304">
+		<AETermDefinition>A disorder characterized by an infectious process involving the nail.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Otitis externa" MedDRACode12="10033072">
+		<AETermDefinition>A disorder characterized by an infectious process involving the outer ear and ear canal. Contributory factors include excessive water exposure (swimmer's ear infection) and cuts in the ear canal. Symptoms include fullness, itching, swelling and marked discomfort in the ear and ear drainage.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Otitis media" MedDRACode12="10033078">
+		<AETermDefinition>A disorder characterized by an infectious process involving the middle ear.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ovarian infection" MedDRACode12="10055005">
+		<AETermDefinition>A disorder characterized by an infectious process involving the ovary.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pancreas infection" MedDRACode12="10051741">
+		<AETermDefinition>A disorder characterized by an infectious process involving the pancreas.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Papulopustular rash" MedDRACode12="10069138">
+		<AETermDefinition>A disorder characterized by an eruption consisting of papules (a small, raised pimple) and pustules (a small pus filled blister), typically appearing in face, scalp, and upper chest and back Unlike acne, this rash does not present with whiteheads or blackheads, and can be symptomatic, with itchy or tender lesions.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Paronychia" MedDRACode12="10034016">
+		<AETermDefinition>A disorder characterized by an infectious process involving the soft tissues around the nail.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pelvic infection" MedDRACode12="10058674">
+		<AETermDefinition>A disorder characterized by an infectious process involving the pelvic cavity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Penile infection" MedDRACode12="10061912">
+		<AETermDefinition>A disorder characterized by an infectious process involving the penis.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Periorbital infection" MedDRACode12="10051472">
+		<AETermDefinition>A disorder characterized by an infectious process involving the orbit of the eye.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Peripheral nerve infection" MedDRACode12="10065766">
+		<AETermDefinition>A disorder characterized by an infectious process involving the peripheral nerves.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Peritoneal infection" MedDRACode12="10057262">
+		<AETermDefinition>A disorder characterized by an infectious process involving the peritoneum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pharyngitis" MedDRACode12="10034835">
+		<AETermDefinition>A disorder characterized by inflammation of the throat.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Phlebitis infective" MedDRACode12="10056627">
+		<AETermDefinition>A disorder characterized by an infectious process involving the vein. Clinical manifestations include erythema, marked discomfort, swelling, and induration along the course of the infected vein.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pleural infection" MedDRACode12="10061351">
+		<AETermDefinition>A disorder characterized by an infectious process involving the pleura.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Prostate infection" MedDRACode12="10050662">
+		<AETermDefinition>A disorder characterized by an infectious process involving the prostate gland.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rash pustular" MedDRACode12="10037888">
+		<AETermDefinition>A disorder characterized by a circumscribed and elevated skin lesion filled with pus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rhinitis infective" MedDRACode12="10059827">
+		<AETermDefinition>A disorder characterized by an infectious process involving the nasal mucosal.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Salivary gland infection" MedDRACode12="10039413">
+		<AETermDefinition>A disorder characterized by an infectious process involving the salivary gland.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Scrotal infection" MedDRACode12="10062156">
+		<AETermDefinition>A disorder characterized by an infectious process involving the scrotum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Sepsis" MedDRACode12="10040047">
+		<AETermDefinition>A disorder characterized by the presence of pathogenic microorganisms in the blood stream that cause a rapidly progressing systemic reaction that may lead to shock.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Sinusitis" MedDRACode12="10040753">
+		<AETermDefinition>A disorder characterized by an infectious process involving the mucous membranes of the paranasal sinuses.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Skin infection" MedDRACode12="10040872">
+		<AETermDefinition>A disorder characterized by an infectious process involving the skin.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Small intestine infection" MedDRACode12="10065771">
+		<AETermDefinition>A disorder characterized by an infectious process involving the small intestine.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Soft tissue infection" MedDRACode12="10062255">
+		<AETermDefinition>A disorder characterized by an infectious process involving soft tissues.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Splenic infection" MedDRACode12="10062112">
+		<AETermDefinition>A disorder characterized by an infectious process involving the spleen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Stoma site infection" MedDRACode12="10064505">
+		<AETermDefinition>A disorder characterized by an infectious process involving a stoma (surgically created opening on the surface of the body).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tooth infection" MedDRACode12="10048762">
+		<AETermDefinition>A disorder characterized by an infectious process involving a tooth.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tracheitis" MedDRACode12="10044302">
+		<AETermDefinition>A disorder characterized by an infectious process involving the trachea.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Upper respiratory infection" MedDRACode12="10046300">
+		<AETermDefinition>A disorder characterized by an infectious process involving the upper respiratory tract (nose, paranasal sinuses, pharynx, larynx, or trachea).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urethral infection" MedDRACode12="10052298">
+		<AETermDefinition>A disorder characterized by an infectious process involving the urethra.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urinary tract infection" MedDRACode12="10046571">
+		<AETermDefinition>A disorder characterized by an infectious process involving the urinary tract, most commonly the bladder and the urethra.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Uterine infection" MedDRACode12="10062233">
+		<AETermDefinition>A disorder characterized by an infectious process involving the endometrium. It may extend to the myometrium and parametrial tissues.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vaginal infection" MedDRACode12="10046914">
+		<AETermDefinition>A disorder characterized by an infectious process involving the vagina.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vulval infection" MedDRACode12="10065772">
+		<AETermDefinition>A disorder characterized by an infectious process involving the vulva.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Wound infection" MedDRACode12="10048038">
+		<AETermDefinition>A disorder characterized by an infectious process involving the wound.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Injury, poisoning and procedural complications">
+	<AETerm AETermName="Ankle fracture" MedDRACode12="10002544">
+		<AETermDefinition>A finding of damage to the ankle joint characterized by a break in the continuity of the ankle bone. Symptoms include marked discomfort, swelling and difficulty moving the affected leg and foot.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Aortic injury" MedDRACode12="10002899">
+		<AETermDefinition>A finding of damage to the aorta.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Arterial injury" MedDRACode12="10003162">
+		<AETermDefinition>A finding of damage to an artery.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Biliary anastomotic leak" MedDRACode12="10050458">
+		<AETermDefinition>A finding of leakage of bile due to breakdown of a biliary anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bladder anastomotic leak" MedDRACode12="10065802">
+		<AETermDefinition>A finding of leakage of urine due to breakdown of a bladder anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bruising" MedDRACode12="10006504">
+		<AETermDefinition>A finding of injury of the soft tissues or bone characterized by leakage of blood into surrounding tissues.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Burn" MedDRACode12="10006634">
+		<AETermDefinition>A finding of impaired integrity to the anatomic site of an adverse thermal reaction. Burns can be caused by exposure to chemicals, direct heat, electricity, flames and radiation. The extent of damage depends on the length and intensity of exposure and time until provision of treatment.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dermatitis radiation" MedDRACode12="10061103">
+		<AETermDefinition>A finding of cutaneous inflammatory reaction occurring as a result of exposure to biologically effective levels of ionizing radiation.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Esophageal anastomotic leak" MedDRACode12="10065961">
+		<AETermDefinition>A finding of leakage due to breakdown of an esophageal anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fall" MedDRACode12="10016173">
+		<AETermDefinition>A finding of sudden movement downward, usually resulting in injury.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fallopian tube anastomotic leak" MedDRACode12="10065788">
+		<AETermDefinition>A finding of leakage due to breakdown of a fallopian tube anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fallopian tube perforation" MedDRACode12="10065790">
+		<AETermDefinition>A finding of rupture of the fallopian tube wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fracture" MedDRACode12="10017076">
+		<AETermDefinition>A finding of traumatic injury to the bone in which the continuity of the bone is broken.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastric anastomotic leak" MedDRACode12="10065893">
+		<AETermDefinition>A finding of leakage due to breakdown of a gastric anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastrointestinal anastomotic leak" MedDRACode12="10065879">
+		<AETermDefinition>A finding of leakage due to breakdown of a gastrointestinal anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gastrointestinal stoma necrosis" MedDRACode12="10065712">
+		<AETermDefinition>A finding of a necrotic process occurring in the gastrointestinal tract stoma.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hip fracture" MedDRACode12="10020100">
+		<AETermDefinition>A finding of traumatic injury to the hip in which the continuity of either the femoral head, femoral neck, intertrochanteric or subtrochanteric regions is broken. </AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Injury to carotid artery" MedDRACode12="10022161">
+		<AETermDefinition>A finding of damage to the carotid artery.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Injury to inferior vena cava" MedDRACode12="10022213">
+		<AETermDefinition>A finding of damage to the inferior vena cava.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Injury to jugular vein" MedDRACode12="10065849">
+		<AETermDefinition>A finding of damage to the jugular vein.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Injury to superior vena cava" MedDRACode12="10022356">
+		<AETermDefinition>A finding of damage to the superior vena cava.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Injury, poisoning and procedural complications - Other, specify" MedDRACode12="10022117">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intestinal stoma leak" MedDRACode12="10059095">
+		<AETermDefinition>A finding of leakage of contents from an intestinal stoma (surgically created opening on the surface of the body).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intestinal stoma obstruction" MedDRACode12="10059094">
+		<AETermDefinition>A finding of blockage of the normal flow of the contents of the intestinal stoma.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intestinal stoma site bleeding" MedDRACode12="10049468">
+		<AETermDefinition>A finding of blood leakage from the intestinal stoma.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative arterial injury" MedDRACode12="10065826">
+		<AETermDefinition>A finding of damage to an artery during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative breast injury" MedDRACode12="10065831">
+		<AETermDefinition>A finding of damage to the breast parenchyma during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative cardiac injury" MedDRACode12="10065843">
+		<AETermDefinition>A finding of damage to the heart during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative ear injury" MedDRACode12="10065844">
+		<AETermDefinition>A finding of damage to the ear during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative endocrine injury" MedDRACode12="10065834">
+		<AETermDefinition>A finding of damage to the endocrine gland during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative gastrointestinal injury" MedDRACode12="10065825">
+		<AETermDefinition>A finding of damage to the gastrointestinal system during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative head and neck injury" MedDRACode12="10065842">
+		<AETermDefinition>A finding of damage to the head and neck during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative hemorrhage" MedDRACode12="10055298">
+		<AETermDefinition>A finding of uncontrolled bleeding during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative hepatobiliary injury" MedDRACode12="10065827">
+		<AETermDefinition>A finding of damage to the hepatic parenchyma and/or biliary tract during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative musculoskeletal injury" MedDRACode12="10065829">
+		<AETermDefinition>A finding of damage to the musculoskeletal system during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative neurological injury" MedDRACode12="10065830">
+		<AETermDefinition>A finding of damage to the nervous system during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative ocular injury" MedDRACode12="10065841">
+		<AETermDefinition>A finding of damage to the eye during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative renal injury" MedDRACode12="10065845">
+		<AETermDefinition>A finding of damage to the kidney during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative reproductive tract injury" MedDRACode12="10065840">
+		<AETermDefinition>A finding of damage to the reproductive organs during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative respiratory injury" MedDRACode12="10065832">
+		<AETermDefinition>A finding of damage to the respiratory system during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative skin injury" MedDRACode12="10065846">
+		<AETermDefinition>A finding of damage to the skin during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative splenic injury" MedDRACode12="10065847">
+		<AETermDefinition>A finding of damage to the spleen during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative urinary injury" MedDRACode12="10065828">
+		<AETermDefinition>A finding of damage to the urinary system during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intraoperative venous injury" MedDRACode12="10065848">
+		<AETermDefinition>A finding of damage to a vein during a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Kidney anastomotic leak" MedDRACode12="10065803">
+		<AETermDefinition>A finding of leakage of urine due to breakdown of a kidney anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Large intestinal anastomotic leak" MedDRACode12="10065891">
+		<AETermDefinition>A finding of leakage due to breakdown of an anastomosis (surgical connection of two separate anatomic structures) in the large intestine.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pancreatic anastomotic leak" MedDRACode12="10050457">
+		<AETermDefinition>A finding of leakage due to breakdown of a pancreatic anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pharyngeal anastomotic leak" MedDRACode12="10065705">
+		<AETermDefinition>A finding of leakage due to breakdown of a pharyngeal anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Postoperative hemorrhage" MedDRACode12="10055322">
+		<AETermDefinition>A finding of bleeding occurring after a surgical procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Postoperative thoracic procedure complication" MedDRACode12="10056745">
+		<AETermDefinition>A finding of a previously undocumented problem that occurs after a thoracic procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Prolapse of intestinal stoma" MedDRACode12="10065745">
+		<AETermDefinition>A finding of protrusion of the intestinal stoma (surgically created opening on the surface of the body) above the abdominal surface.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Prolapse of urostomy" MedDRACode12="10065822">
+		<AETermDefinition>A finding of displacement of the urostomy.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Radiation recall reaction (dermatologic)" MedDRACode12="10037767">
+		<AETermDefinition>A finding of acute skin inflammatory reaction caused by drugs, especially chemotherapeutic agents, for weeks or months following radiotherapy. The inflammatory reaction is confined to the previously irradiated skin and the symptoms disappear after the removal of the pharmaceutical agent.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rectal anastomotic leak" MedDRACode12="10065894">
+		<AETermDefinition>A finding of leakage due to breakdown of a rectal anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Seroma" MedDRACode12="10040102">
+		<AETermDefinition>A finding of tumor-like collection of serum in the tissues.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Small intestinal anastomotic leak" MedDRACode12="10065892">
+		<AETermDefinition>A finding of leakage due to breakdown of an anastomosis (surgical connection of two separate anatomic structures) in the small bowel.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Spermatic cord anastomotic leak" MedDRACode12="10065897">
+		<AETermDefinition>A finding of leakage due to breakdown of a spermatic cord anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Spinal fracture" MedDRACode12="10041569">
+		<AETermDefinition>A finding of traumatic injury to the spine in which the continuity of a vertebral bone is broken.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Stenosis of gastrointestinal stoma" MedDRACode12="10065898">
+		<AETermDefinition>A finding of narrowing of the gastrointestinal stoma (surgically created opening on the surface of the body).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Stomal ulcer" MedDRACode12="10042127">
+		<AETermDefinition>A disorder characterized by a circumscribed, inflammatory and necrotic erosive lesion on the jejunal mucosal surface close to the anastomosis site following a gastroenterostomy procedure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tracheal hemorrhage" MedDRACode12="10062548">
+		<AETermDefinition>A finding of bleeding from the trachea.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tracheal obstruction" MedDRACode12="10044291">
+		<AETermDefinition>A finding of blockage of the lumen of the trachea.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tracheostomy site bleeding" MedDRACode12="10065749">
+		<AETermDefinition>A finding of blood leakage from the tracheostomy site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ureteric anastomotic leak" MedDRACode12="10065814">
+		<AETermDefinition>A finding of leakage due to breakdown of a ureteral anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urethral anastomotic leak" MedDRACode12="10065815">
+		<AETermDefinition>A finding of leakage due to breakdown of a urethral anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urostomy leak" MedDRACode12="10065882">
+		<AETermDefinition>A finding of leakage of contents from a urostomy.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urostomy obstruction" MedDRACode12="10065883">
+		<AETermDefinition>A finding of blockage of the urostomy.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urostomy site bleeding" MedDRACode12="10065748">
+		<AETermDefinition>A finding of bleeding from the urostomy site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urostomy stenosis" MedDRACode12="10065885">
+		<AETermDefinition>A finding of narrowing of the opening of a urostomy.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Uterine anastomotic leak" MedDRACode12="10065886">
+		<AETermDefinition>A finding of leakage due to breakdown of a uterine anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Uterine perforation" MedDRACode12="10046810">
+		<AETermDefinition>A disorder characterized by a rupture in the uterine wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vaginal anastomotic leak" MedDRACode12="10065887">
+		<AETermDefinition>A finding of leakage due to breakdown of a vaginal anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vas deferens anastomotic leak" MedDRACode12="10065888">
+		<AETermDefinition>A finding of leakage due to breakdown of a vas deferens anastomosis (surgical connection of two separate anatomic structures).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vascular access complication" MedDRACode12="10062169">
+		<AETermDefinition>A finding of a previously undocumented problem related to the vascular access site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Venous injury" MedDRACode12="10047228">
+		<AETermDefinition>A finding of damage to a vein.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Wound complication" MedDRACode12="10053692">
+		<AETermDefinition>A finding of development of a new problem at the site of an existing wound.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Wound dehiscence" MedDRACode12="10048031">
+		<AETermDefinition>A finding of separation of the approximated margins of a surgical wound.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Wrist fracture" MedDRACode12="10048049">
+		<AETermDefinition>A finding of traumatic injury to the wrist joint in which the continuity of a wrist bone is broken.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Investigations">
+	<AETerm AETermName="Activated partial thromboplastin time prolonged" MedDRACode12="10000636">
+		<AETermDefinition>An abnormal laboratory test result in which the partial thromboplastin time is found to be greater than the control value. As a possible indicator of coagulopathy, a prolonged partial thromboplastin time (PTT) may occur in a variety of diseases and disorders, both primary and related to treatment.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Alanine aminotransferase increased" MedDRACode12="10001551">
+		<AETermDefinition>A finding based on laboratory test results that indicate an increase in the level of alanine aminotransferase (ALT or SGPT) in the blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Alkaline phosphatase increased" MedDRACode12="10001675">
+		<AETermDefinition>A finding based on laboratory test results that indicate an increase in the level of alkaline phosphatase in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Aspartate aminotransferase increased" MedDRACode12="10003481">
+		<AETermDefinition>A finding based on laboratory test results that indicate an increase in the level of aspartate aminotransferase (AST or SGOT) in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Blood antidiuretic hormone abnormal" MedDRACode12="10005332">
+		<AETermDefinition>A finding based on laboratory test results that indicate abnormal levels of antidiuretic hormone in the blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Blood bilirubin increased" MedDRACode12="10005364">
+		<AETermDefinition>A finding based on laboratory test results that indicate an abnormally high level of bilirubin in the blood. Excess bilirubin is associated with jaundice.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Blood corticotrophin decreased" MedDRACode12="10005452">
+		<AETermDefinition>A finding based on laboratory test results that indicate an decrease in levels of corticotrophin in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Blood gonadotrophin abnormal" MedDRACode12="10005561">
+		<AETermDefinition>A finding based on laboratory test results that indicate abnormal levels of gonadotrophin hormone in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Blood prolactin abnormal" MedDRACode12="10005778">
+		<AETermDefinition>A finding based on laboratory test results that indicate abnormal levels of prolactin hormone in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Carbon monoxide diffusing capacity decreased" MedDRACode12="10065906">
+		<AETermDefinition>A finding based on lung function test results that indicate a decrease in the lung capacity to absorb carbon monoxide.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cardiac troponin I increased" MedDRACode12="10007612">
+		<AETermDefinition>A laboratory test result which indicates increased levels of cardiac troponin I in a biological specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cardiac troponin T increased" MedDRACode12="10007613">
+		<AETermDefinition>A laboratory test result which indicates increased levels of cardiac troponin T in a biological specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="CD4 lymphocytes decreased" MedDRACode12="10007839">
+		<AETermDefinition>A finding based on laboratory test results that indicate an decrease in levels of CD4 lymphocytes in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cholesterol high" MedDRACode12="10008661">
+		<AETermDefinition>A finding based on laboratory test results that indicate higher than normal levels of cholesterol in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="CPK increased" MedDRACode12="10011268">
+		<AETermDefinition>A finding based on laboratory test results that indicate an increase in levels of creatine phosphokinase in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Creatinine increased" MedDRACode12="10011368">
+		<AETermDefinition>A finding based on laboratory test results that indicate increased levels of creatinine in a biological specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ejection fraction decreased" MedDRACode12="10050528">
+		<AETermDefinition>The percentage computed when the amount of blood ejected during a ventricular contraction of the heart is compared to the amount that was present prior to the contraction.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Electrocardiogram QT corrected interval prolonged" MedDRACode12="10014383">
+		<AETermDefinition>A finding of a cardiac dysrhythmia characterized by an abnormally long corrected QT interval.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fibrinogen decreased" MedDRACode12="10016596">
+		<AETermDefinition>A finding based on laboratory test results that indicate an decrease in levels of fibrinogen in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Forced expiratory volume decreased" MedDRACode12="10016987">
+		<AETermDefinition>A finding based on test results that indicate a relative decrease in the fraction of the forced vital capacity that is exhaled in a specific number of seconds.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="GGT increased" MedDRACode12="10056910">
+		<AETermDefinition>A finding based on laboratory test results that indicate higher than normal levels of the enzyme gamma-glutamyltransferase in the blood specimen. GGT (gamma-glutamyltransferase ) catalyzes the transfer of a gamma glutamyl group from a gamma glutamyl peptide to another peptide, amino acids or water.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Growth hormone abnormal" MedDRACode12="10018748">
+		<AETermDefinition>A finding based on laboratory test results that indicate abnormal levels of growth hormone in a biological specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Haptoglobin decreased" MedDRACode12="10019150">
+		<AETermDefinition>A finding based on laboratory test results that indicate an decrease in levels of haptoglobin in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hemoglobin increased" MedDRACode12="10055599">
+		<AETermDefinition>A finding based on laboratory test results that indicate increased levels of hemoglobin in a biological specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="INR increased" MedDRACode12="10022402">
+		<AETermDefinition>A finding based on laboratory test results that indicate an increase in the ratio of the patient's prothrombin time to a control sample in the blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Investigations - Other, specify" MedDRACode12="10022891">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lipase increased" MedDRACode12="10024574">
+		<AETermDefinition>A finding based on laboratory test results that indicate an increase in the level of lipase in a biological specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lymphocyte count decreased" MedDRACode12="10025256">
+		<AETermDefinition>A finding based on laboratory test results that indicate a decrease in number of lymphocytes in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lymphocyte count increased" MedDRACode12="10025258">
+		<AETermDefinition>A finding based on laboratory test results that indicate an abnormal increase in the number of lymphocytes in the blood, effusions or bone marrow.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Neutrophil count decreased" MedDRACode12="10029366">
+		<AETermDefinition>A finding based on laboratory test results that indicate a decrease in number of neutrophils in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pancreatic enzymes decreased" MedDRACode12="10062646">
+		<AETermDefinition>A finding based on laboratory test results that indicate an decrease in levels of pancreatic enzymes in a biological specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Platelet count decreased" MedDRACode12="10035528">
+		<AETermDefinition>A finding based on laboratory test results that indicate a decrease in number of platelets in a blood specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Serum amylase increased" MedDRACode12="10040139">
+		<AETermDefinition>A finding based on laboratory test results that indicate an increase in the levels of amylase in a serum specimen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urine output decreased" MedDRACode12="10059895">
+		<AETermDefinition>A finding based on test results that indicate urine production is less relative to previous output.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vital capacity abnormal" MedDRACode12="10047580">
+		<AETermDefinition>A finding based on pulmonary function test results that indicate an abnormal vital capacity (amount of exhaled after a maximum inhalation) when compared to the predicted value.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Weight gain" MedDRACode12="10047896">
+		<AETermDefinition>A finding characterized by an increase in overall body weight; for pediatrics, greater than the baseline growth curve.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Weight loss" MedDRACode12="10047900">
+		<AETermDefinition>A finding characterized by a decrease in overall body weight; for pediatrics, less than the baseline growth curve.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="White blood cell decreased" MedDRACode12="10049182">
+		<AETermDefinition>A finding based on laboratory test results that indicate an decrease in number of white blood cells in a blood specimen.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Metabolism and nutrition disorders">
+	<AETerm AETermName="Acidosis" MedDRACode12="10000486">
+		<AETermDefinition>A disorder characterized by abnormally high acidity (high hydrogen-ion concentration) of the blood and other body tissues.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Alcohol intolerance" MedDRACode12="10001598">
+		<AETermDefinition>A disorder characterized by an increase in sensitivity to the adverse effects of alcohol, which can include nasal congestion, skin flushes, heart dysrhythmias, nausea, vomiting, indigestion and headaches.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Alkalosis" MedDRACode12="10001680">
+		<AETermDefinition>A disorder characterized by abnormally high alkalinity (low hydrogen-ion concentration) of the blood and other body tissues.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Anorexia" MedDRACode12="10002646">
+		<AETermDefinition>A disorder characterized by a loss of appetite.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dehydration" MedDRACode12="10012174">
+		<AETermDefinition>A disorder characterized by excessive loss of water from the body. It is usually caused by severe diarrhea, vomiting or diaphoresis.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Glucose intolerance" MedDRACode12="10052426">
+		<AETermDefinition>A disorder characterized by an inability to properly metabolize glucose.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypercalcemia" MedDRACode12="10020587">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate an elevation in the concentration of calcium (corrected for albumin) in blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hyperglycemia" MedDRACode12="10020639">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate an elevation in the concentration of blood sugar. It is usually an indication of diabetes mellitus or glucose intolerance.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hyperkalemia" MedDRACode12="10020647">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate an elevation in the concentration of potassium in the blood; associated with kidney failure or sometimes with the use of diuretic drugs.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypermagnesemia" MedDRACode12="10020670">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate an elevation in the concentration of magnesium in the blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypernatremia" MedDRACode12="10020680">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate an elevation in the concentration of sodium in the blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypertriglyceridemia" MedDRACode12="10020870">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate an elevation in the concentration of triglyceride concentration in the blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hyperuricemia" MedDRACode12="10020907">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate an elevation in the concentration of uric acid.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypoalbuminemia" MedDRACode12="10020943">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate a low concentration of albumin in the blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypocalcemia" MedDRACode12="10020949">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate a low concentration of calcium (corrected for albumin) in the blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypoglycemia" MedDRACode12="10021005">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate a low concentration of glucose in the blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypokalemia" MedDRACode12="10021018">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate a low concentration of potassium in the blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypomagnesemia" MedDRACode12="10021028">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate a low concentration of magnesium in the blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hyponatremia" MedDRACode12="10021038">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate a low concentration of sodium in the blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypophosphatemia" MedDRACode12="10021059">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate a low concentration of phosphates in the blood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Iron overload" MedDRACode12="10065973">
+		<AETermDefinition>A disorder characterized by accumulation of iron in the tissues.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Metabolism and nutrition disorders - Other, specify" MedDRACode12="10027433">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Obesity" MedDRACode12="10029883">
+		<AETermDefinition>A disorder characterized by having a high amount of body fat.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tumor lysis syndrome" MedDRACode12="10045152">
+		<AETermDefinition>A disorder characterized by metabolic abnormalities that result from a spontaneous or therapy-related cytolysis of tumor cells.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Musculoskeletal and connective tissue disorders">
+	<AETerm AETermName="Abdominal soft tissue necrosis" MedDRACode12="10065775">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the soft tissues of the abdominal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Arthralgia" MedDRACode12="10003239">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in a joint.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Arthritis" MedDRACode12="10003246">
+		<AETermDefinition>A disorder characterized by inflammation involving a joint.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Avascular necrosis" MedDRACode12="10066480">
+		<AETermDefinition>A disorder characterized by necrotic changes in the bone tissue due to interruption of blood supply. Most often affecting the epiphysis of the long bones, the necrotic changes result in the collapse and the destruction of the bone structure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Back pain" MedDRACode12="10003988">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the back region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bone pain" MedDRACode12="10006002">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the bones.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Buttock pain" MedDRACode12="10048677">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the buttocks.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Chest wall pain" MedDRACode12="10008496">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the chest wall region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Exostosis" MedDRACode12="10015688">
+		<AETermDefinition>A disorder characterized by non-neoplastic overgrowth of bone.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fibrosis deep connective tissue" MedDRACode12="10065799">
+		<AETermDefinition>A disorder characterized by fibrotic degeneration of the deep connective tissues.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Flank pain" MedDRACode12="10016750">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation on the lateral side of the body in the region below the ribs and above the hip.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Generalized muscle weakness" MedDRACode12="10062572">
+		<AETermDefinition>A disorder characterized by a reduction in the strength of muscles in multiple anatomic sites.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Growth suppression" MedDRACode12="10018761">
+		<AETermDefinition>A disorder characterized by of stature that is smaller than normal as expected for age.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Head soft tissue necrosis" MedDRACode12="10065779">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the soft tissues of the head.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Joint effusion" MedDRACode12="10023215">
+		<AETermDefinition>A disorder characterized by excessive fluid in a joint, usually as a result of joint inflammation.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Joint range of motion decreased" MedDRACode12="10048706">
+		<AETermDefinition>A disorder characterized by a decrease in joint flexibility of any joint.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Joint range of motion decreased cervical spine" MedDRACode12="10065796">
+		<AETermDefinition>A disorder characterized by a decrease in flexibility of a cervical spine joint.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Joint range of motion decreased lumbar spine" MedDRACode12="10065800">
+		<AETermDefinition>A disorder characterized by a decrease in flexibility of a lumbar spine joint.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Kyphosis" MedDRACode12="10023509">
+		<AETermDefinition>A disorder characterized by an abnormal increase in the curvature of the thoracic portion of the spine.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lordosis" MedDRACode12="10024842">
+		<AETermDefinition>A disorder characterized by an abnormal increase in the curvature of the lumbar portion of the spine.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Muscle weakness left-sided" MedDRACode12="10065780">
+		<AETermDefinition>A disorder characterized by a reduction in the strength of the muscles on the left side of the body.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Muscle weakness lower limb" MedDRACode12="10065776">
+		<AETermDefinition>A disorder characterized by a reduction in the strength of the lower limb muscles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Muscle weakness right-sided" MedDRACode12="10065794">
+		<AETermDefinition>A disorder characterized by a reduction in the strength of the muscles on the right side of the body.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Muscle weakness trunk" MedDRACode12="10065795">
+		<AETermDefinition>A disorder characterized by a reduction in the strength of the trunk muscles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Muscle weakness upper limb" MedDRACode12="10065895">
+		<AETermDefinition>A disorder characterized by a reduction in the strength of the upper limb muscles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Musculoskeletal and connective tissue disorder -  Other, specify" MedDRACode12="10028395">
+		<AETermDefinition>-</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Musculoskeletal deformity" MedDRACode12="10065783">
+		<AETermDefinition>A disorder characterized by of a malformation of the musculoskeletal system.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Myalgia" MedDRACode12="10028411">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation originating from a muscle or group of muscles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Myositis" MedDRACode12="10028653">
+		<AETermDefinition>A disorder characterized by inflammation involving the skeletal muscles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Neck pain" MedDRACode12="10028836">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the neck area.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Neck soft tissue necrosis" MedDRACode12="10065781">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the soft tissues of the neck.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Osteonecrosis of jaw" MedDRACode12="10064658">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the bone of the mandible.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Osteoporosis" MedDRACode12="10031282">
+		<AETermDefinition>A disorder characterized by reduced bone mass, with a decrease in cortical thickness and in the number and size of the trabeculae of cancellous bone (but normal chemical composition), resulting in increased fracture incidence.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pain in extremity" MedDRACode12="10033425">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the upper or lower extremities.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pelvic soft tissue necrosis" MedDRACode12="10065793">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the soft tissues of the pelvis.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Scoliosis" MedDRACode12="10039722">
+		<AETermDefinition>A disorder characterized by a malformed, lateral curvature of the spine.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Soft tissue necrosis lower limb" MedDRACode12="10065777">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the soft tissues of the lower extremity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Soft tissue necrosis upper limb" MedDRACode12="10065778">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the soft tissues of the upper extremity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Superficial soft tissue fibrosis" MedDRACode12="10065798">
+		<AETermDefinition>A disorder characterized by fibrotic degeneration of the superficial soft tissues.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Trismus" MedDRACode12="10044684">
+		<AETermDefinition>A disorder characterized by lack of ability to open the mouth fully due to a decrease in the range of motion of the muscles of mastication.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Unequal limb length" MedDRACode12="10065738">
+		<AETermDefinition>A disorder characterized by of a discrepancy between the lengths of the lower or upper extremities.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Neoplasms benign, malignant and unspecified (incl cysts and polyps)">
+	<AETerm AETermName="Leukemia secondary to oncology chemotherapy" MedDRACode12="10048293">
+		<AETermDefinition>A disorder characterized by leukemia arising as a result of the mutagenic effect of chemotherapy agents.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Myelodysplastic syndrome" MedDRACode12="10028533">
+		<AETermDefinition>A disorder characterized by insufficiently healthy hematapoietic cell production by the bone marrow. </AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Neoplasms benign, malignant and unspecified (incl cysts and polyps) - Other, specify" MedDRACode12="10029104">
+		<AETermDefinition>-</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Treatment related secondary malignancy" MedDRACode12="10049737">
+		<AETermDefinition>A disorder characterized by development of a malignancy most probably as a result of treatment for a previously existing malignancy.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tumor pain" MedDRACode12="10045158">
+		<AETermDefinition>A disorder characterized by marked discomfort from a neoplasm that may be pressing on a nerve, blocking blood vessels, inflamed or fractured from metastasis.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Nervous system disorders">
+	<AETerm AETermName="Abducens nerve disorder" MedDRACode12="10053662">
+		<AETermDefinition>A disorder characterized by involvement of the abducens nerve (sixth cranial nerve).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Accessory nerve disorder" MedDRACode12="10060929">
+		<AETermDefinition>A disorder characterized by involvement of the accessory nerve (eleventh cranial nerve).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Acoustic nerve disorder NOS" MedDRACode12="10000521">
+		<AETermDefinition>A disorder characterized by involvement of the acoustic nerve (eighth cranial nerve).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Akathisia" MedDRACode12="10001540">
+		<AETermDefinition>A disorder characterized by an uncomfortable feeling of inner restlessness and inability to stay still; this is a side effect of some psychotropic drugs.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Amnesia" MedDRACode12="10001949">
+		<AETermDefinition>A disorder characterized by systematic and extensive loss of memory.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Aphonia" MedDRACode12="10002953">
+		<AETermDefinition>A disorder characterized by the inability to speak. It may result from injuries to the vocal cords or may be functional (psychogenic).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Arachnoiditis" MedDRACode12="10003074">
+		<AETermDefinition>A disorder characterized by inflammation of the arachnoid membrane and adjacent subarachnoid space.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ataxia" MedDRACode12="10003591">
+		<AETermDefinition>A disorder characterized by lack of coordination of muscle movements resulting in the impairment or inability to perform voluntary activities.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Brachial plexopathy" MedDRACode12="10065417">
+		<AETermDefinition>A disorder characterized by regional paresthesia of the brachial plexus, marked discomfort and muscle weakness, and limited movement in the arm or hand.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Central nervous system necrosis" MedDRACode12="10065784">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the brain and/or spinal cord.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cerebrospinal fluid leakage" MedDRACode12="10008164">
+		<AETermDefinition>A disorder characterized by loss of cerebrospinal fluid into the surrounding tissues.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cognitive disturbance" MedDRACode12="10009845">
+		<AETermDefinition>A disorder characterized by a conspicuous change in cognitive function.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Concentration impairment" MedDRACode12="10010250">
+		<AETermDefinition>A disorder characterized by a deterioration in the ability to concentrate.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Depressed level of consciousness" MedDRACode12="10012373">
+		<AETermDefinition>A disorder characterized by a decrease in ability to perceive and respond.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dizziness" MedDRACode12="10013573">
+		<AETermDefinition>A disorder characterized by a disturbing sensation of lightheadedness, unsteadiness, giddiness, spinning or rocking.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dysarthria" MedDRACode12="10013887">
+		<AETermDefinition>A disorder characterized by slow and slurred speech resulting from an inability to coordinate the muscles used in speech.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dysesthesia" MedDRACode12="10062872">
+		<AETermDefinition>A disorder characterized by distortion of sensory perception, resulting in an abnormal and unpleasant sensation.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dysgeusia" MedDRACode12="10013911">
+		<AETermDefinition>A disorder characterized by abnormal sensual experience with the taste of foodstuffs; it can be related to a decrease in the sense of smell.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dysphasia" MedDRACode12="10013951">
+		<AETermDefinition>A disorder characterized by impairment of verbal communication skills, often resulting from brain damage.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Edema cerebral" MedDRACode12="10014217">
+		<AETermDefinition>A disorder characterized by swelling due to an excessive accumulation of fluid in the brain.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Encephalopathy" MedDRACode12="10014625">
+		<AETermDefinition>A disorder characterized by a pathologic process involving the brain.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Extrapyramidal disorder" MedDRACode12="10015832">
+		<AETermDefinition>A disorder characterized by abnormal, repetitive, involuntary muscle movements, frenzied speech and extreme restlessness.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Facial muscle weakness" MedDRACode12="10051272">
+		<AETermDefinition>A disorder characterized by a reduction in the strength of the facial muscles.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Facial nerve disorder" MedDRACode12="10061457">
+		<AETermDefinition>A disorder characterized by involvement of the facial nerve (seventh cranial nerve).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Glossopharyngeal nerve disorder" MedDRACode12="10061185">
+		<AETermDefinition>A disorder characterized by involvement of the glossopharyngeal nerve (ninth cranial nerve).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Headache" MedDRACode12="10019211">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in various parts of the head, not confined to the area of distribution of any nerve.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hydrocephalus" MedDRACode12="10020508">
+		<AETermDefinition>A disorder characterized by an abnormal increase of cerebrospinal fluid in the ventricles of the brain.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypersomnia" MedDRACode12="10020765">
+		<AETermDefinition>A disorder characterized by characterized by excessive sleepiness during the daytime.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypoglossal nerve disorder" MedDRACode12="10061212">
+		<AETermDefinition>A disorder characterized by involvement of the hypoglossal nerve (twelfth cranial nerve).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Intracranial hemorrhage" MedDRACode12="10022763">
+		<AETermDefinition>A disorder characterized by bleeding from the cranium.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ischemia cerebrovascular" MedDRACode12="10023030">
+		<AETermDefinition>A disorder characterized by a decrease or absence of blood supply to the brain caused by obstruction (thrombosis or embolism) of an artery resulting in neurological damage.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="IVth nerve disorder" MedDRACode12="10065836">
+		<AETermDefinition>A disorder characterized by involvement of the trochlear nerve (fourth cranial nerve).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lethargy" MedDRACode12="10024264">
+		<AETermDefinition>A disorder characterized by a decrease in consciousness characterized by mental and physical inertness.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Leukoencephalopathy" MedDRACode12="10024382">
+		<AETermDefinition>A disorder characterized by diffuse reactive astrocytosis with multiple areas of necrotic foci without inflammation.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Memory impairment" MedDRACode12="10027175">
+		<AETermDefinition>A disorder characterized by a deterioration in memory function.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Meningismus" MedDRACode12="10027198">
+		<AETermDefinition>A disorder characterized by neck stiffness, headache, and photophobia resulting from irritation of the cerebral meninges.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Movements involuntary" MedDRACode12="10028041">
+		<AETermDefinition>A disorder characterized by uncontrolled and purposeless movements.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Myelitis" MedDRACode12="10028524">
+		<AETermDefinition>A disorder characterized by inflammation involving the spinal cord. Symptoms include weakness, paresthesia, sensory loss, marked discomfort and incontinence.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Nervous system disorders - Other, specify" MedDRACode12="10029205">
+		<AETermDefinition>-</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Neuralgia" MedDRACode12="10029223">
+		<AETermDefinition>A disorder characterized by intense painful sensation along a nerve or group of nerves.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Nystagmus" MedDRACode12="10029864">
+		<AETermDefinition>A disorder characterized by involuntary movements of the eyeballs.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Oculomotor nerve disorder" MedDRACode12="10053661">
+		<AETermDefinition>A disorder characterized by involvement of the oculomotor nerve (third cranial nerve).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Olfactory nerve disorder" MedDRACode12="10056388">
+		<AETermDefinition>A disorder characterized by involvement of the olfactory nerve (first cranial nerve).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Paresthesia" MedDRACode12="10033987">
+		<AETermDefinition>A disorder characterized by functional disturbances of sensory neurons resulting in abnormal cutaneous sensations of tingling, numbness, pressure, cold, and warmth that are experienced in the absence of a stimulus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Peripheral motor neuropathy" MedDRACode12="10034580">
+		<AETermDefinition>A disorder characterized by inflammation or degeneration of the peripheral motor nerves.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Peripheral sensory neuropathy" MedDRACode12="10034620">
+		<AETermDefinition>A disorder characterized by inflammation or degeneration of the peripheral sensory nerves.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Phantom pain" MedDRACode12="10056238">
+		<AETermDefinition>A disorder characterized by marked discomfort related to a limb or an organ that is removed from or is not physically part of the body.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Presyncope" MedDRACode12="10036653">
+		<AETermDefinition>A disorder characterized by an episode of lightheadedness and dizziness which may precede an episode of syncope.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pyramidal tract syndrome" MedDRACode12="10063636">
+		<AETermDefinition>A disorder characterized by dysfunction of the corticospinal (pyramidal) tracts of the spinal cord. Symptoms include an increase in the muscle tone in the lower extremities, hyperreflexia, positive Babinski and a decrease in fine motor coordination.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Radiculitis" MedDRACode12="10061928">
+		<AETermDefinition>A disorder characterized by inflammation involving a nerve root. Patients experience marked discomfort radiating along a nerve path because of spinal pressure on the connecting nerve root.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Recurrent laryngeal nerve palsy" MedDRACode12="10038130">
+		<AETermDefinition>A disorder characterized by paralysis of the recurrent laryngeal nerve.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Reversible posterior leukoencephalopathy syndrome" MedDRACode12="10063761">
+		<AETermDefinition>A disorder characterized by headaches, mental status changes, visual disturbances, and seizures associated with imaging findings of posterior leukoencephalopathy. It has been observed in association with hypertensive encephalopathy, eclampsia, and immunosuppressive and cytotoxic drug treatment. It is an acute or subacute reversible condition.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Seizure" MedDRACode12="10039906">
+		<AETermDefinition>A disorder characterized by a sudden, involuntary skeletal muscular contractions of cerebral or brain stem origin.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Sinus pain" MedDRACode12="10040747">
+		<AETermDefinition>A disorder characterized by marked discomfort in the face, between the eyes, or upper teeth originating from the sinuses.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Somnolence" MedDRACode12="10041349">
+		<AETermDefinition>A disorder characterized by characterized by excessive sleepiness and drowsiness.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Spasticity" MedDRACode12="10041416">
+		<AETermDefinition>A disorder characterized by increased involuntary muscle tone that affects the regions interfering with voluntary movement. It results in gait, movement, and speech disturbances.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Stroke" MedDRACode12="10042244">
+		<AETermDefinition>A disorder characterized by a sudden loss of sensory function due to an intracranial vascular event.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Syncope" MedDRACode12="10042772">
+		<AETermDefinition>A disorder characterized by spontaneous loss of consciousness caused by insufficient blood supply to the brain.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Transient ischemic attacks" MedDRACode12="10044391">
+		<AETermDefinition>A disorder characterized by a brief attack (less than 24 hours) of cerebral dysfunction of vascular origin, with no persistent neurological deficit.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tremor" MedDRACode12="10044565">
+		<AETermDefinition>A disorder characterized by the uncontrolled shaking movement of the whole body or individual parts.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Trigeminal nerve disorder" MedDRACode12="10060890">
+		<AETermDefinition>A disorder characterized by involvement of the trigeminal nerve (fifth cranial nerve).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vagus nerve disorder" MedDRACode12="10061403">
+		<AETermDefinition>A disorder characterized by involvement of the vagus nerve (tenth cranial nerve).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vasovagal reaction" MedDRACode12="10047166">
+		<AETermDefinition>A disorder characterized by a sudden drop of the blood pressure, bradycardia, and peripheral vasodilation that may lead to loss of consciousness. It results from an increase in the stimulation of the vagus nerve.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Pregnancy, puerperium and perinatal conditions">
+	<AETerm AETermName="Fetal death" MedDRACode12="10016479">
+		<AETermDefinition>A disorder characterized by death in utero; failure of the product of conception to show evidence of respiration, heartbeat, or definite movement of a voluntary muscle after expulsion from the uterus, without possibility of resuscitation.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fetal growth retardation" MedDRACode12="10054746">
+		<AETermDefinition>A disorder characterized by inhibition of fetal growth resulting in the inability of the fetus to achieve its potential weight.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pregnancy, puerperium and perinatal conditions - Other, specify" MedDRACode12="10036585">
+		<AETermDefinition>-</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Premature delivery" MedDRACode12="10036595">
+		<AETermDefinition>A disorder characterized by delivery of a viable infant before the normal end of gestation. Typically, viability is achievable between the twentieth and thirty-seventh week of gestation.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Unintended pregnancy" MedDRACode12="10045542">
+		<AETermDefinition>A disorder characterized by an unexpected pregnancy at the time of conception.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Psychiatric disorders">
+	<AETerm AETermName="Agitation" MedDRACode12="10001497">
+		<AETermDefinition>A disorder characterized by a state of restlessness associated with unpleasant feelings of irritability and tension.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Anorgasmia" MedDRACode12="10002652">
+		<AETermDefinition>A disorder characterized by an inability to achieve orgasm.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Anxiety" MedDRACode12="10002855">
+		<AETermDefinition>A disorder characterized by apprehension of danger and dread accompanied by restlessness, tension, tachycardia, and dyspnea unattached to a clearly identifiable stimulus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Confusion" MedDRACode12="10010300">
+		<AETermDefinition>A disorder characterized by a lack of clear and orderly thought and behavior.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Delayed orgasm" MedDRACode12="10057066">
+		<AETermDefinition>A disorder characterized by sexual dysfunction characterized by a delay in climax.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Delirium" MedDRACode12="10012218">
+		<AETermDefinition>A disorder characterized by the acute and sudden development of confusion, illusions, movement changes, inattentiveness, agitation, and hallucinations. Usually, it is a reversible condition.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Delusions" MedDRACode12="10012260">
+		<AETermDefinition>A disorder characterized by false personal beliefs held contrary to reality, despite contradictory evidence and common sense.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Depression" MedDRACode12="10012378">
+		<AETermDefinition>A disorder characterized by melancholic feelings of grief or unhappiness.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Euphoria" MedDRACode12="10015533">
+		<AETermDefinition>A disorder characterized by an exaggerated feeling of well-being which is disproportionate to events and stimuli.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hallucinations" MedDRACode12="10019077">
+		<AETermDefinition>A disorder characterized by a false sensory perception in the absence of an external stimulus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Insomnia" MedDRACode12="10022437">
+		<AETermDefinition>A disorder characterized by difficulty in falling asleep and/or remaining asleep.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Libido decreased" MedDRACode12="10024419">
+		<AETermDefinition>A disorder characterized by a decrease in sexual desire.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Libido increased" MedDRACode12="10024421">
+		<AETermDefinition>A disorder characterized by an increase in sexual desire.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Mania" MedDRACode12="10026749">
+		<AETermDefinition>A disorder characterized by excitement of psychotic proportions manifested by mental and physical hyperactivity, disorganization of behavior and elevation of mood.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Personality change" MedDRACode12="10034719">
+		<AETermDefinition>A disorder characterized by a conspicuous change in a person's behavior and thinking.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Psychiatric disorders - Other, specify" MedDRACode12="10037175">
+		<AETermDefinition>-</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Psychosis" MedDRACode12="10037234">
+		<AETermDefinition>A disorder characterized by personality change, impaired functioning, and loss of touch with reality. It may be a manifestation of schizophrenia, bipolar disorder or brain tumor.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Restlessness" MedDRACode12="10038743">
+		<AETermDefinition>A disorder characterized by an inability to rest, relax or be still.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Suicidal ideation" MedDRACode12="10042458">
+		<AETermDefinition>A disorder characterized by thoughts of taking one's own life.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Suicide attempt" MedDRACode12="10042464">
+		<AETermDefinition>A disorder characterized by self-inflicted harm in an attempt to end one's own life.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Renal and urinary disorders">
+	<AETerm AETermName="Acute kidney injury" MedDRACode12="10069339">
+		<AETermDefinition>A disorder characterized by the acute loss of renal function and is traditionally classified as pre-renal (low blood flow into kidney), renal (kidney damage) and post-renal causes (ureteral or bladder outflow obstruction).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bladder perforation" MedDRACode12="10063575">
+		<AETermDefinition>A disorder characterized by a rupture in the bladder wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bladder spasm" MedDRACode12="10048994">
+		<AETermDefinition>A disorder characterized by a sudden and involuntary contraction of the bladder wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Chronic kidney disease" MedDRACode12="10064848">
+		<AETermDefinition>A disorder characterized by gradual and usually permanent loss of kidney function resulting in renal failure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cystitis noninfective" MedDRACode12="10063057">
+		<AETermDefinition>A disorder characterized by inflammation of the bladder which is not caused by an infection of the urinary tract.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hematuria" MedDRACode12="10019450">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate blood in the urine.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hemoglobinuria" MedDRACode12="10019489">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate the presence of free hemoglobin in the urine.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Proteinuria" MedDRACode12="10037032">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate the presence of excessive protein in the urine. It is predominantly albumin, but also globulin.</AETermDefinition>
+ 	</AETerm>
+	<AETerm AETermName="Renal and urinary disorders - Other, specify" MedDRACode12="10038359">
+		<AETermDefinition></AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Renal calculi" MedDRACode12="10038385">
+		<AETermDefinition>A disorder characterized by the formation of crystals in the pelvis of the kidney.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Renal colic" MedDRACode12="10038419">
+		<AETermDefinition>A disorder characterized by paroxysmal and severe flank marked discomfort radiating to the inguinal area. Often, the cause is the passage of kidney stones.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Renal hemorrhage" MedDRACode12="10038463">
+		<AETermDefinition>A disorder characterized by bleeding from the kidney.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urinary fistula" MedDRACode12="10065368">
+		<AETermDefinition>A disorder characterized by an abnormal communication between any part of the urinary system and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urinary frequency" MedDRACode12="10046539">
+		<AETermDefinition>A disorder characterized by urination at short intervals.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urinary incontinence" MedDRACode12="10046543">
+		<AETermDefinition>A disorder characterized by inability to control the flow of urine from the bladder.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urinary retention" MedDRACode12="10046555">
+		<AETermDefinition>A disorder characterized by accumulation of urine within the bladder because of the inability to urinate.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urinary tract obstruction" MedDRACode12="10061574">
+		<AETermDefinition>A disorder characterized by blockage of the normal flow of contents of the urinary tract.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urinary tract pain" MedDRACode12="10062225">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the urinary tract.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urinary urgency" MedDRACode12="10046593">
+		<AETermDefinition>A disorder characterized by a sudden compelling urge to urinate.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urine discoloration" MedDRACode12="10046628">
+		<AETermDefinition>A disorder characterized by a change in the color of the urine.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Reproductive system and breast disorders">
+	<AETerm AETermName="Azoospermia" MedDRACode12="10003883">
+		<AETermDefinition>A disorder characterized by laboratory test results that indicate complete absence of spermatozoa in the semen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Breast atrophy" MedDRACode12="10006179">
+		<AETermDefinition>A disorder characterized by underdevelopment of the breast.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Breast pain" MedDRACode12="10006298">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the breast region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dysmenorrhea" MedDRACode12="10013934">
+		<AETermDefinition>A disorder characterized by abnormally painful abdominal cramps during menses.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dyspareunia" MedDRACode12="10013941">
+		<AETermDefinition>A disorder characterized by painful or difficult coitus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ejaculation disorder" MedDRACode12="10014326">
+		<AETermDefinition>A disorder characterized by problems related to ejaculation. This category includes premature, delayed, retrograde and painful ejaculation.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Erectile dysfunction" MedDRACode12="10061461">
+		<AETermDefinition>A disorder characterized by the persistent or recurrent inability to achieve or to maintain an erection during sexual activity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fallopian tube obstruction" MedDRACode12="10065789">
+		<AETermDefinition>A disorder characterized by blockage of the normal flow of the contents in the fallopian tube.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fallopian tube stenosis" MedDRACode12="10065791">
+		<AETermDefinition>A disorder characterized by a narrowing of the fallopian tube lumen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Female genital tract fistula" MedDRACode12="10061149">
+		<AETermDefinition>A disorder characterized by an abnormal communication between a female reproductive system organ and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Feminization acquired" MedDRACode12="10054382">
+		<AETermDefinition>A disorder characterized by the development of secondary female sex characteristics in males due to extrinsic factors.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Genital edema" MedDRACode12="10018146">
+		<AETermDefinition>A disorder characterized by swelling due to an excessive accumulation of fluid in the genitals.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Gynecomastia" MedDRACode12="10018801">
+		<AETermDefinition>A disorder characterized by excessive development of the breasts in males.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hematosalpinx" MedDRACode12="10060602">
+		<AETermDefinition>A disorder characterized by the presence of blood in a fallopian tube.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Irregular menstruation" MedDRACode12="10022992">
+		<AETermDefinition>A disorder characterized by irregular cycle or duration of menses.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lactation disorder" MedDRACode12="10061261">
+		<AETermDefinition>A disorder characterized by disturbances of milk secretion. It is not necessarily related to pregnancy that is observed in females and can be observed in males.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Menorrhagia" MedDRACode12="10027313">
+		<AETermDefinition>A disorder characterized by abnormally heavy vaginal bleeding during menses.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Nipple deformity" MedDRACode12="10065823">
+		<AETermDefinition>A disorder characterized by a malformation of the nipple.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Oligospermia" MedDRACode12="10030300">
+		<AETermDefinition>A disorder characterized by a decrease in the number of spermatozoa in the semen.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ovarian hemorrhage" MedDRACode12="10065763">
+		<AETermDefinition>A disorder characterized by bleeding from the ovary.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ovarian rupture" MedDRACode12="10033279">
+		<AETermDefinition>A disorder characterized by tearing or disruption of the ovarian tissue.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Ovulation pain" MedDRACode12="10033314">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in one side of the abdomen between menstrual cycles, around the time of the discharge of the ovum from the ovarian follicle.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pelvic floor muscle weakness" MedDRACode12="10064026">
+		<AETermDefinition>A disorder characterized by a reduction in the strength of the muscles of the pelvic floor.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pelvic pain" MedDRACode12="10034263">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the pelvis.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Penile pain" MedDRACode12="10034310">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the penis.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Perineal pain" MedDRACode12="10061339">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the area between the genital organs and the anus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Premature menopause" MedDRACode12="10036601">
+		<AETermDefinition>A disorder characterized by ovarian failure before the age of 40. Symptoms include hot flashes, night sweats, mood swings and a decrease in sex drive.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Prostatic hemorrhage" MedDRACode12="10055325">
+		<AETermDefinition>A disorder characterized by bleeding from the prostate gland.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Prostatic obstruction" MedDRACode12="10055026">
+		<AETermDefinition>A disorder characterized by compression of the urethra secondary to enlargement of the prostate gland. This results in voiding difficulties (straining to void, slow urine stream, and incomplete emptying of the bladder).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Prostatic pain" MedDRACode12="10036968">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the prostate gland.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Reproductive system and breast disorders - Other, specify" MedDRACode12="10038604">
+		<AETermDefinition>-</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Scrotal pain" MedDRACode12="10039757">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the scrotal area.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Spermatic cord hemorrhage" MedDRACode12="10065762">
+		<AETermDefinition>A disorder characterized by bleeding from the spermatic cord.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Spermatic cord obstruction" MedDRACode12="10065805">
+		<AETermDefinition>A disorder characterized by blockage of the normal flow of the contents of the spermatic cord.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Testicular disorder" MedDRACode12="10043306">
+		<AETermDefinition>A disorder characterized by involvement of the testis.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Testicular hemorrhage" MedDRACode12="10055347">
+		<AETermDefinition>A disorder characterized by bleeding from the testis.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Testicular pain" MedDRACode12="10043345">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the testis.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Uterine fistula" MedDRACode12="10065811">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the uterus and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Uterine hemorrhage" MedDRACode12="10046789">
+		<AETermDefinition>A disorder characterized by bleeding from the uterus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Uterine obstruction" MedDRACode12="10065928">
+		<AETermDefinition>A disorder characterized by blockage of the uterine outlet.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Uterine pain" MedDRACode12="10046809">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the uterus.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vaginal discharge" MedDRACode12="10046901">
+		<AETermDefinition>A disorder characterized by vaginal secretions. Mucus produced by the cervical glands is discharged from the vagina naturally, especially during the childbearing years.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vaginal dryness" MedDRACode12="10046904">
+		<AETermDefinition>A disorder characterized by an uncomfortable feeling of itching and burning in the vagina.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vaginal fistula" MedDRACode12="10065813">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the vagina and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vaginal hemorrhage" MedDRACode12="10046912">
+		<AETermDefinition>A disorder characterized by bleeding from the vagina.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vaginal inflammation" MedDRACode12="10046916">
+		<AETermDefinition>A disorder characterized by inflammation involving the vagina. Symptoms may include redness, edema, marked discomfort and an increase in vaginal discharge.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vaginal obstruction" MedDRACode12="10065817">
+		<AETermDefinition>A disorder characterized by blockage of vaginal canal.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vaginal pain" MedDRACode12="10046937">
+		<AETermDefinition>A disorder characterized by a sensation of marked discomfort in the vagina.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vaginal perforation" MedDRACode12="10065818">
+		<AETermDefinition>A disorder characterized by a rupture in the vaginal wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vaginal stricture" MedDRACode12="10053496">
+		<AETermDefinition>A disorder characterized by a narrowing of the vaginal canal.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vaginismus" MedDRACode12="10046947">
+		<AETermDefinition>A disorder characterized by involuntary spasms of the pelvic floor muscles, resulting in pathologic tightness of the vaginal wall during penetration such as during sexual intercourse.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Respiratory, thoracic and mediastinal disorders">
+	<AETerm AETermName="Adult respiratory distress syndrome" MedDRACode12="10001409">
+		<AETermDefinition>A disorder characterized by progressive and life-threatening pulmonary distress in the absence of an underlying pulmonary condition, usually following major trauma or surgery.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Allergic rhinitis" MedDRACode12="10001723">
+		<AETermDefinition>A disorder characterized by an inflammation of the nasal mucous membranes caused by an IgE-mediated response to external allergens. The inflammation may also involve the mucous membranes of the sinuses, eyes, middle ear, and pharynx. Symptoms include sneezing, nasal congestion, rhinorrhea and itching.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Apnea" MedDRACode12="10002972">
+		<AETermDefinition>A disorder characterized by cessation of breathing.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Aspiration" MedDRACode12="10003504">
+		<AETermDefinition>A disorder characterized by inhalation of solids or liquids into the lungs.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Atelectasis" MedDRACode12="10003598">
+		<AETermDefinition>A disorder characterized by the collapse of part or the entire lung.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bronchial fistula" MedDRACode12="10006437">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the bronchus and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bronchial obstruction" MedDRACode12="10006440">
+		<AETermDefinition>A disorder characterized by blockage of a bronchus passage, most often by bronchial secretions and exudates.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bronchial stricture" MedDRACode12="10063524">
+		<AETermDefinition>A disorder characterized by a narrowing of the bronchial tube.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bronchopleural fistula" MedDRACode12="10053481">
+		<AETermDefinition>A disorder characterized by an abnormal communication between a bronchus and the pleural cavity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bronchopulmonary hemorrhage" MedDRACode12="10065746">
+		<AETermDefinition>A disorder characterized by bleeding from the bronchial wall and/or lung parenchyma.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bronchospasm" MedDRACode12="10006482">
+		<AETermDefinition>A disorder characterized by a sudden contraction of the smooth muscles of the bronchial wall.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Chylothorax" MedDRACode12="10051228">
+		<AETermDefinition>A disorder characterized by milky pleural effusion (abnormal collection of fluid) resulting from accumulation of lymph fluid in the pleural cavity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Cough" MedDRACode12="10011224">
+		<AETermDefinition>A disorder characterized by sudden, often repetitive, spasmodic contraction of the thoracic cavity, resulting in violent release of air from the lungs and usually accompanied by a distinctive sound.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dyspnea" MedDRACode12="10013963">
+		<AETermDefinition>A disorder characterized by an uncomfortable sensation of difficulty breathing.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Epistaxis" MedDRACode12="10015090">
+		<AETermDefinition>A disorder characterized by bleeding from the nose.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hiccups" MedDRACode12="10020039">
+		<AETermDefinition>A disorder characterized by repeated gulp sounds that result from an involuntary opening and closing of the glottis. This is attributed to a spasm of the diaphragm.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hoarseness" MedDRACode12="10020201">
+		<AETermDefinition>A disorder characterized by harsh and raspy voice arising from or spreading to the larynx.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypoxia" MedDRACode12="10021143">
+		<AETermDefinition>A disorder characterized by a decrease in the level of oxygen in the body.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Laryngeal edema" MedDRACode12="10023838">
+		<AETermDefinition>A disorder characterized by swelling due to an excessive accumulation of fluid in the larynx.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Laryngeal fistula" MedDRACode12="10065786">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the larynx and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Laryngeal hemorrhage" MedDRACode12="10065759">
+		<AETermDefinition>A disorder characterized by bleeding from the larynx.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Laryngeal inflammation" MedDRACode12="10065735">
+		<AETermDefinition>A disorder characterized by an inflammation involving the larynx.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Laryngeal mucositis" MedDRACode12="10065880">
+		<AETermDefinition>A disorder characterized by an inflammation involving the mucous membrane of the larynx.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Laryngeal obstruction" MedDRACode12="10059639">
+		<AETermDefinition>A disorder characterized by blockage of the laryngeal airway.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Laryngeal stenosis" MedDRACode12="10023862">
+		<AETermDefinition>A disorder characterized by a narrowing of the laryngeal airway.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Laryngopharyngeal dysesthesia" MedDRACode12="10062667">
+		<AETermDefinition>A disorder characterized by an uncomfortable persistent sensation in the area of the laryngopharynx.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Laryngospasm" MedDRACode12="10023891">
+		<AETermDefinition>A disorder characterized by paroxysmal spasmodic muscular contraction of the vocal cords.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Mediastinal hemorrhage" MedDRACode12="10056356">
+		<AETermDefinition>A disorder characterized by bleeding from the mediastinum.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Nasal congestion" MedDRACode12="10028735">
+		<AETermDefinition>A disorder characterized by obstruction of the nasal passage due to mucosal edema.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pharyngeal fistula" MedDRACode12="10034825">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the pharynx and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pharyngeal hemorrhage" MedDRACode12="10055315">
+		<AETermDefinition>A disorder characterized by bleeding from the pharynx.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pharyngeal mucositis" MedDRACode12="10065881">
+		<AETermDefinition>A disorder characterized by an inflammation involving the mucous membrane of the pharynx.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pharyngeal necrosis" MedDRACode12="10065706">
+		<AETermDefinition>A disorder characterized by a necrotic process occurring in the pharynx.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pharyngeal stenosis" MedDRACode12="10050028">
+		<AETermDefinition>A disorder characterized by a narrowing of the pharyngeal airway.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pharyngolaryngeal pain" MedDRACode12="10034844">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the pharyngolaryngeal region.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pleural effusion" MedDRACode12="10035598">
+		<AETermDefinition>A disorder characterized by an increase in amounts of fluid within the pleural cavity. Symptoms include shortness of breath, cough and marked chest discomfort.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pleural hemorrhage" MedDRACode12="10055319">
+		<AETermDefinition>A disorder characterized by bleeding from the pleural cavity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pleuritic pain" MedDRACode12="10035623">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the pleura.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pneumonitis" MedDRACode12="10035742">
+		<AETermDefinition>A disorder characterized by inflammation focally or diffusely affecting the lung parenchyma.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pneumothorax" MedDRACode12="10035759">
+		<AETermDefinition>A disorder characterized by abnormal presence of air in the pleural cavity resulting in the collapse of the lung.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Postnasal drip" MedDRACode12="10036402">
+		<AETermDefinition>A disorder characterized by excessive mucous secretion in the back of the nasal cavity or throat, causing sore throat and/or coughing.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Productive cough" MedDRACode12="10036790">
+		<AETermDefinition>A disorder characterized by expectorated secretions upon coughing.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pulmonary edema" MedDRACode12="10037375">
+		<AETermDefinition>A disorder characterized by accumulation of fluid in the lung tissues that causes a disturbance of the gas exchange that may lead to respiratory failure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pulmonary fibrosis" MedDRACode12="10037383">
+		<AETermDefinition>A disorder characterized by the replacement of the lung tissue by connective tissue, leading to progressive dyspnea, respiratory failure or right heart failure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pulmonary fistula" MedDRACode12="10065873">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the lung and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pulmonary hypertension" MedDRACode12="10037400">
+		<AETermDefinition>A disorder characterized by an increase in pressure within the pulmonary circulation due to lung or heart disorder.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Respiratory failure" MedDRACode12="10038695">
+		<AETermDefinition>A disorder characterized by impaired gas exchange by the respiratory system resulting in hypoxemia and a decrease in oxygenation of the tissues that may be associated with an increase in arterial levels of carbon dioxide.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Respiratory, thoracic and mediastinal disorders - Other, specify" MedDRACode12="10038738">
+		<AETermDefinition>-</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Retinoic acid syndrome" MedDRACode12="10038921">
+		<AETermDefinition>A disorder characterized by weight gain, dyspnea, pleural and pericardial effusions, leukocytosis and/or renal failure originally described in patients treated with all-trans retinoic acid.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Sinus disorder" MedDRACode12="10062244">
+		<AETermDefinition>A disorder characterized by involvement of the paranasal sinuses.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Sleep apnea" MedDRACode12="10040975">
+		<AETermDefinition>A disorder characterized by cessation of breathing for short periods during sleep.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Sneezing" MedDRACode12="10041232">
+		<AETermDefinition>A disorder characterized by the involuntary expulsion of air from the nose.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Sore throat" MedDRACode12="10041367">
+		<AETermDefinition>A disorder characterized by of marked discomfort in the throat</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Stridor" MedDRACode12="10042241">
+		<AETermDefinition>A disorder characterized by a high pitched breathing sound due to laryngeal or upper airway obstruction.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tracheal fistula" MedDRACode12="10065787">
+		<AETermDefinition>A disorder characterized by an abnormal communication between the trachea and another organ or anatomic site.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tracheal mucositis" MedDRACode12="10065900">
+		<AETermDefinition>A disorder characterized by an inflammation involving the mucous membrane of the trachea.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Tracheal stenosis" MedDRACode12="10050816">
+		<AETermDefinition>A disorder characterized by a narrowing of the trachea.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Voice alteration" MedDRACode12="10047681">
+		<AETermDefinition>A disorder characterized by a change in the sound and/or speed of the voice.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Wheezing" MedDRACode12="10047924">
+		<AETermDefinition>A disorder characterized by a high-pitched, whistling sound during breathing. It results from the narrowing or obstruction of the respiratory airways.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Skin and subcutaneous tissue disorders">
+	<AETerm AETermName="Alopecia" MedDRACode12="10001760">
+		<AETermDefinition>A disorder characterized by a decrease in density of hair compared to normal for a given individual at a given age and body location.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Body odor" MedDRACode12="10005901">
+		<AETermDefinition>A disorder characterized by an abnormal body smell resulting from the growth of bacteria on the body.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Bullous dermatitis" MedDRACode12="10006556">
+		<AETermDefinition>A disorder characterized by inflammation of the skin characterized by the presence of bullae which are filled with fluid.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Dry skin" MedDRACode12="10013786">
+		<AETermDefinition>A disorder characterized by flaky and dull skin; the pores are generally fine, the texture is a papery thin texture.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Erythema multiforme" MedDRACode12="10015218">
+		<AETermDefinition>A disorder characterized by target lesions (a pink-red ring around a pale center).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Erythroderma" MedDRACode12="10015277">
+		<AETermDefinition>A disorder characterized by generalized inflammatory erythema and exfoliation. The inflammatory process involves &gt; 90% of the body surface area.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Fat atrophy" MedDRACode12="10016241">
+		<AETermDefinition>A disorder characterized by shrinking of adipose tissue.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hirsutism" MedDRACode12="10020112">
+		<AETermDefinition>A disorder characterized by the presence of excess hair growth in women in anatomic sites where growth is considered to be a secondary male characteristic and under androgen control (beard, moustache, chest, abdomen).</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hyperhidrosis" MedDRACode12="10020642">
+		<AETermDefinition>A disorder characterized by excessive perspiration.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypertrichosis" MedDRACode12="10020864">
+		<AETermDefinition>A disorder characterized by hair density or length beyond the accepted limits of normal in a particular body region, for a particular age or race.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypohidrosis" MedDRACode12="10021013">
+		<AETermDefinition>A disorder characterized by reduced sweating.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lipohypertrophy" MedDRACode12="10062315">
+		<AETermDefinition>A disorder characterized by hypertrophy of the subcutaneous adipose tissue at the site of multiple subcutaneous injections of insulin.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Nail discoloration" MedDRACode12="10028691">
+		<AETermDefinition>A disorder characterized by a change in the color of the nail plate.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Nail loss" MedDRACode12="10049281">
+		<AETermDefinition>A disorder characterized by loss of all or a portion of the nail.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Nail ridging" MedDRACode12="10062283">
+		<AETermDefinition>A disorder characterized by vertical or horizontal ridges on the nails.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pain of skin" MedDRACode12="10033474">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the skin.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Palmar-plantar erythrodysesthesia syndrome" MedDRACode12="10054524">
+		<AETermDefinition>A disorder characterized by redness, marked discomfort, swelling, and tingling in the palms of the hands or the soles of the feet.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Periorbital edema" MedDRACode12="10054541">
+		<AETermDefinition>A disorder characterized by swelling due to an excessive accumulation of fluid around the orbits of the face.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Photosensitivity" MedDRACode12="10034966">
+		<AETermDefinition>A disorder characterized by an increase in sensitivity of the skin to light.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Pruritus" MedDRACode12="10037087">
+		<AETermDefinition>A disorder characterized by an intense itching sensation.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Purpura" MedDRACode12="10037549">
+		<AETermDefinition>A disorder characterized by hemorrhagic areas of the skin and mucous membrane. Newer lesions appear reddish in color. Older lesions are usually a darker purple color and eventually become a brownish-yellow color.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rash acneiform" MedDRACode12="10037847">
+		<AETermDefinition>A disorder characterized by an eruption of papules and pustules, typically appearing in face, scalp, upper chest and back.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Rash maculo-papular" MedDRACode12="10037868">
+		<AETermDefinition>A disorder characterized by the presence of macules (flat) and papules (elevated). Also known as morbillform rash, it is one of the most common cutaneous adverse events, frequently affecting the upper trunk, spreading centripetally and associated with pruritis.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Scalp pain" MedDRACode12="10049120">
+		<AETermDefinition>A disorder characterized by marked discomfort sensation in the skin covering the top and the back of the head.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Skin and subcutaneous tissue disorders - Other, specify" MedDRACode12="10040785">
+		<AETermDefinition>-</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Skin atrophy" MedDRACode12="10040799">
+		<AETermDefinition>A disorder characterized by the degeneration and thinning of the epidermis and dermis.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Skin hyperpigmentation" MedDRACode12="10040865">
+		<AETermDefinition>A disorder characterized by darkening of the skin due to excessive melanin deposition.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Skin hypopigmentation" MedDRACode12="10040868">
+		<AETermDefinition>A disorder characterized by loss of skin pigment.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Skin induration" MedDRACode12="10051837">
+		<AETermDefinition>A disorder characterized by an area of hardness in the skin.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Skin ulceration" MedDRACode12="10040947">
+		<AETermDefinition>A disorder characterized by circumscribed, inflammatory and necrotic erosive lesion on the skin.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Stevens-Johnson syndrome" MedDRACode12="10042033">
+		<AETermDefinition>A disorder characterized by less than 10% total body skin area separation of dermis. The syndrome is thought to be a hypersensitivity complex affecting the skin and the mucous membranes.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Telangiectasia" MedDRACode12="10043189">
+		<AETermDefinition>A disorder characterized by local dilatation of small vessels resulting in red discoloration of the skin or mucous membranes.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Toxic epidermal necrolysis" MedDRACode12="10044223">
+		<AETermDefinition>A disorder characterized by greater than 30% total body skin area separation of dermis. The syndrome is thought to be a hypersensitivity complex affecting the skin and the mucous membranes.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Urticaria" MedDRACode12="10046735">
+		<AETermDefinition>A disorder characterized by an itchy skin eruption characterized by wheals with pale interiors and well-defined red margins.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Social circumstances">
+	<AETerm AETermName="Menopause" MedDRACode12="10027308">
+		<AETermDefinition>A disorder characterized by the permanent cessation of menses, usually defined by 12 consecutive months of amenorrhea in a woman over 45 years of age.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Social circumstances - Other, specify" MedDRACode12="10041244">
+		<AETermDefinition>-</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Surgical and medical procedures">
+	<AETerm AETermName="Surgical and medical procedures - Other, specify" MedDRACode12="10042613">
+		<AETermDefinition>-</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+	<SystemOrganClass SOCName="Vascular disorders">
+	<AETerm AETermName="Capillary leak syndrome" MedDRACode12="10007196">
+		<AETermDefinition>A disorder characterized by leakage of intravascular fluids into the extravascular space. This syndrome is observed in patients who demonstrate a state of generalized leaky capillaries following shock syndromes, low-flow states, ischemia-reperfusion injuries, toxemias, medications, or poisoning. It can lead to generalized edema and multiple organ failure.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Flushing" MedDRACode12="10016825">
+		<AETermDefinition>A disorder characterized by episodic reddening of the face.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hematoma" MedDRACode12="10019428">
+		<AETermDefinition>A disorder characterized by a localized collection of blood, usually clotted, in an organ, space, or tissue, due to a break in the wall of a blood vessel.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hot flashes" MedDRACode12="10020407">
+		<AETermDefinition>A disorder characterized by an uncomfortable and temporary sensation of intense body warmth, flushing, sometimes accompanied by sweating upon cooling.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypertension" MedDRACode12="10020772">
+		<AETermDefinition>A disorder characterized by a pathological increase in blood pressure; a repeatedly elevation in the blood pressure exceeding 140 over 90 mm Hg.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Hypotension" MedDRACode12="10021097">
+		<AETermDefinition>A disorder characterized by a blood pressure that is below the normal expected for an individual in a given environment.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lymph leakage" MedDRACode12="10065773">
+		<AETermDefinition>A disorder characterized by the loss of lymph fluid into the surrounding tissue or body cavity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lymphedema" MedDRACode12="10025233">
+		<AETermDefinition>A disorder characterized by excessive fluid collection in tissues that causes swelling.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Lymphocele" MedDRACode12="10048642">
+		<AETermDefinition>A disorder characterized by a cystic lesion containing lymph.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Peripheral ischemia" MedDRACode12="10034578">
+		<AETermDefinition>A disorder characterized by impaired circulation to an extremity.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Phlebitis" MedDRACode12="10034879">
+		<AETermDefinition>A disorder characterized by inflammation of the wall of a vein.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Superficial thrombophlebitis" MedDRACode12="10042554">
+		<AETermDefinition>A disorder characterized by a blood clot and inflammation involving a superficial vein of the extremities. </AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Superior vena cava syndrome" MedDRACode12="10042569">
+		<AETermDefinition>A disorder characterized by obstruction of the blood flow in the superior vena cava. Signs and symptoms include swelling and cyanosis of the face, neck, and upper arms, cough, orthopnea and headache.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Thromboembolic event" MedDRACode12="10043565">
+		<AETermDefinition>A disorder characterized by occlusion of a vessel by a thrombus that has migrated from a distal site via the blood stream.</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vascular disorders - Other, specify" MedDRACode12="10047065">
+		<AETermDefinition>-</AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Vasculitis" MedDRACode12="10047115">
+		<AETermDefinition>A disorder characterized by inflammation involving the wall of a vessel. </AETermDefinition>
+	</AETerm>
+	<AETerm AETermName="Visceral arterial ischemia" MedDRACode12="10054692">
+		<AETermDefinition>A disorder characterized by a decrease in blood supply due to narrowing or blockage of a visceral (mesenteric) artery.</AETermDefinition>
+	</AETerm>
+	</SystemOrganClass>
+</SystemOrganClasses>
