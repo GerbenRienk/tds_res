@@ -38,6 +38,11 @@ non-profit academic edc" />
 		
 		<div class="entry group">
 			<h3>transfer existing data to a a new version of a CRF</h3>
+
+<p>Heads up: all this info is relevant for OpenClinica-installations up to version 3.11. 
+In version 3.12 the function to migrate CRF-versions was introduced, as documented on
+<a target='_blank' href='https://docs.openclinica.com/3.1/openclinica-user-guide/submit-data-module-overview/crf-version-migration#BATCH'>
+https://docs.openclinica.com/3.1/openclinica-user-guide/submit-data-module-overview/crf-version-migration#BATCH</a>. </p>
 			
 			<p>How familiar is the following scenario for you? You've designed CRFs for a study and all involved are happy.
 			And then you go into production and after three months they come to you and tell you  they want to add an extra item to 
