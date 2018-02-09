@@ -40,7 +40,13 @@ non-profit academic edc" />
 			<h3>News, or what have you done lately?</h3>
 			<div class="entry-body">
 
-<a name='N054'>&nbsp;</a>
+<a name='N056'>&nbsp;</a>
+<p class='question'>setting defaults using java-script</p>
+<p>On <a href='/tds/howto/defaultsjs.jsp'>this page</a> we explain how you can set defaults in your grid, or repeating-item-group. 
+As an extra we also make the values read-only and set the width. And as a final touch we take out the remove-icons.</p>
+<p>(8-2-2018)</p>
+
+<a name='N055'>&nbsp;</a>
 <p class='question'>adding row-numbers in a repeating item group</p>
 <p>On <a href='/tds/howto/rownumber.jsp'>this page</a> we explain how you can get a row-number in your grid, or repeating-item-group. Simple, but effective.</p>
 <p>(9-1-2017)</p>

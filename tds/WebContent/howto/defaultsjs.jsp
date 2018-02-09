@@ -39,27 +39,26 @@ non-profit academic edc" />
 	<div class="main">		
 		
 		<div class="entry group">
-			<h3>adding row-numbers in a repeating item group</h3>
+			<h3>default entries in a repeating item group</h3>
 			
-<p>You may want to have row-numbers in a repeating-item-group for several reasons, such as making an easy reference to the data in a row. 
-However auto-numbering in a grid is not standard and we have to apply some javascript . The result will be like this:
-
+<p>For some time we've had the option to insert values in a repeating-item-group, as described on 
+<a target='/tds/howto/transferdatanewversion.jsp' href='_blank'>this page</a>, but you may need additional functionality,
+like making the defaults read-only and/or taking away the option to remove a line in the grid. 
+To be able to do this we must use some java-scripting, so it makes sense to set the defaults in the same script.
  </p>
 			
 <p>
-<img src='/tds/img/ImagesHowTo/rownumber/rn01.PNG' border='0'  class='photo'/><br />
-fig. 1: the result
+<img src='/tds/img/ImagesHowTo/defaultjs/dj01.PNG' border='0'  class='photo'/><br />
+fig. 1: the end result
 </p>
-<h3>no time for all that</h3>			
+<h3>try it for yourself</h3>			
 <p>
-No time to wait? <a href='/tds/CRFExamples/CRFWithAutoNumber.zip' target='_blank'>Here</a> is the zip-file with an example CRF.
-The script writes an autonumber, whenever something is entered in any input of the table.  What you must do if you want to use the script in
-your own table is set the proper groupName in <b>var groupName =[your very own groupname here]</b>. 
-Furthermore in the script a prefix is defined, now #, but that can of course be anything or nothing.
+Do you want to see that on your own OpenClinica? <a href='/tds/CRFExamples/defaultsjs.zip' target='_blank'>Here</a> is the zip-file.
 </p>
 
-<h3>what about the code?</h3>
-<p>The code is put in the header column of the first item of the repeating-item-group and it is not so difficult:</p>
+<h3>what does the script do?</h3>
+<p>The code is put in the header column of the first item of the repeating-item-group and it is not so difficult, in fact it looks
+a lot like the code that was used to create an autonumber:</p>
 
 <pre><code class="javascript">&lt;div id="Beacon"&gt;&lt;/div&gt;
 &lt;script src="includes/jmesa/jquery.min.js"&gt;&lt;/script&gt;
@@ -99,27 +98,91 @@ jQuery(document).ready(function($){
 &lt;/script&gt;
 </code></pre>
 
-<p>First we define a div that will act as a Beacon and we call it <b>B</b>. From this beacon we can refer to the table of the repeating-item-group
+<p>First we define a div that will act as a Beacon and we call it <b>Beacon</b>. From this beacon we can refer to the table of the repeating-item-group
  as the parent of the parent of the parent of our parent: <br />
- <b>$("#B").parent().parent().parent().parent()</b>. <br />
- In this table we look at the tbody and in that tbody we loop through all the table-rows, tr:<br />
- <b>children('tbody').children('tr')</b>.<br />
- In each table-row we take the first child of type table-data, td: <b>children('td:nth-child(1)')</b>. <br />
- And in this cell or td, we take  the first input of type text: <b>children('input:text')</b>. <br />
- And that input we make read-only. And in the next line of the script we set the width of that input to 25. </p>
-<p>The next step is that we define the function that will write the auto-number, <b>checkAutoNr()</b> and at the end we add a listener to all
-inputs (of in fact all tables) that the function checkAutoNr() must be processed whenever something is entered in an input.</p>
-<p>The function itself first takes the ID of the object that called the function and in our case this is the input. This input has an ID and the name of the 
-repeating-item-group is part of that ID, for example <b>IG_TDSAU_RIG_0input445</b>, where <b>RIG</b> is the name of the group, the group_label.
-"RIG" starts at the 10th character of the ID, so <b>indexOf</b> will return a <b>10</b>.<br />
-If we're in another repeating-item-group, then "RIG" will not be in the ID and the <b>indexOf</b> will be <b>-1</b>.
+ <b>MyTable = $("#Beacon").parent().parent().parent().parent()</b>. <br />
+ To keep things simple we define the values to insert plus the column in which to insert and also the width of the inputs we will use:<br />
+  <b>valuesToInsert = ["Ig","Hgb","Na","K","pH","ALAT","ASAT","Creat"]<br />
+  var columnToInsert = 1<br />
+  var columnWidth = 50</b></p>
+ <p>
+ <b>function setDefaults()</b> is where it's happening: we loop through all the table-rows, and in each table-row 
+ we take the first n-th child of type td, whatever we defined as the column to insert. <br />
+ Once we're there, we can check if the value has already been inserted and if not, we do that and set the status to <b>changed</b>.<br />
+ And to round things up we make the input read-only and set the width. </p>
+ 
+<p>There's one more thing that needs explaining and that is <b>window.setTimeout(function(){setDefaults();},1);</b>.
+This function waits one millisecond and then executes the function and the thing is: it starts counting once the whole page has finished.
+"Mmmh, that sounds like document-ready and we already use that" you may say and yes, we do, but a grid in OpenClinica is 
+built with the so-called repetition-model which makes one line of the grid and then copies it. JQuery doesn't wait for that, 
+so your grid could be halfway, when jQuery tries to populate it. With setTimeout we wait for the repetition-script to finish
+and one millisecond later we start populating. 
 </p>
-<p>Now then, we know that we're in the correct table. All we have to do is look at the index of the row we're in. 
-We add  the prefix to this row-index and put that in the auto-number field, but only if it was not there already:
-<b>if (fldAN.val()!=autoNumber)</b>.</p>
+
+
+<h3>now tell us what animals you saw in Australia</h3>
+
+<p>After taking so much trouble to insert the defaults you may want prevent the users from deleting the rows. This can be done relatively easy,
+ because the remove-icons all share the same class, called <b>button_remove</b>. Here you see the result:</p>
+ 
+<p>
+<img src='/tds/img/ImagesHowTo/defaultjs/dj02.PNG' border='0'  class='photo'/><br />
+fig. 2: CRF with remove-icons gone
+</p>
+ 
+<p>The code is almost similar to the previous code:</p>
+<pre><code class="javascript">&lt;div id="BeaconAnimal"&gt;&lt;/div&gt;
+&lt;script src="includes/jmesa/jquery.min.js"&gt;&lt;/script&gt;
+&lt;script lang="Javascript"&gt;
+$.noConflict();
+jQuery(document).ready(function($){
+  var valuesToInsert = ["whale", "wombat", "wallaby"];
+  var columnToInsert = 1;
+  var columnWidth = 80;
+  //make a reference to the table we're in 
+  var MyTable = $("#BeaconAnimal").parent().parent().parent().parent();
+  //define a counter 
+  var i = 0;
+  var myInput;
+  //define the function
+  function setDefaults(){
+    //loop through the tr's
+    $(MyTable).children('tbody').children('tr').each(function(){
+      //make a reference to the right input
+      myInput = $(this).children('td:nth-child(' + columnToInsert + ')').children('input:text');
+      //check if the input is already populated
+      if(valuesToInsert[i] &amp;&amp; myInput.val() != valuesToInsert[i]){
+        myInput.val(valuesToInsert[i]);
+        myInput.change();
+      }
+        myInput.attr("readonly","readonly");
+        myInput.width(columnWidth);
+      //increase the counter 
+      i++;
+    });
+    // now remove the remove buttons that are all of class button_remove
+    $(MyTable).find(".button_remove").remove();
+  }
+  //now call the function
+  window.setTimeout(function(){
+    setDefaults();
+  },1);
+});
+&lt;/script&gt;
+</code></pre>
+<p>The difference is just one line, <b>$(MyTable).find(".button_remove").remove()</b>, that takes our table and removes from it all
+objects of class <b>button_remove</b>.<br />
+You may think "can't we just do that for the whole form, as opposed to one table?" but it could be that you have on the same section
+more than one grid and then you would like to apply the remove-action just on one.</p>
+
+<p>
+<img src='/tds/img/ImagesHowTo/defaultjs/dj03.PNG' border='0'  class='photo'/><br />
+fig. 3: where to put it
+</p>
+
 
 <p>Other how-to-pages can be found <a href='/tds/howto/index.jsp#crfs'>here</a>.</p>
-<p class='pagereviewdate'>this page was last reviewed January 2017</p>
+<p class='pagereviewdate'>this page was last reviewed February 2018</p>
     </div>
 
   </div> <!-- /.main -->

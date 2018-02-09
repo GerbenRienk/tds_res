@@ -15,16 +15,16 @@
 
 <li>
 	<blockquote>
-		<p>an automatic row number</p>
-		<p class="author"><a href='/tds/newsall.jsp#N055' title='read more about this'>&rarr; more</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<p>defaults in a grid</p>
+		<p class="author"><a href='/tds/newsall.jsp#N056' title='read more about this'>&rarr; more</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		9-1-2017</p>
 	</blockquote>
 </li>
 <li>
 	<blockquote>
-		<p>test oc3.12</p>
-		<p class="author"><a href='/tds/newsall.jsp#N054' title='read more about this'>&rarr; more</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		10-10-2016</p>
+		<p>an automatic row number</p>
+		<p class="author"><a href='/tds/newsall.jsp#N055' title='read more about this'>&rarr; more</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		9-1-2017</p>
 	</blockquote>
 </li>
 <li>

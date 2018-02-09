@@ -37,13 +37,14 @@ non-profit academic edc" />
 	<div class="main">		
 		
 		<div class="entry group">
-			<h3>transfer existing data to a a new version of a CRF</h3>
-
-<p>Heads up: all this info is relevant for OpenClinica-installations up to version 3.11. 
-In version 3.12 the function to migrate CRF-versions was introduced, as documented on
+			
+<h3>heads up: which version are we talking about?</h3>
+<p>Heads up: all the info below is relevant for OpenClinica-installations up to version 3.11. 
+In version 3.12 the function to migrate CRF-versions was introduced, as documented on <br />
 <a target='_blank' href='https://docs.openclinica.com/3.1/openclinica-user-guide/submit-data-module-overview/crf-version-migration#BATCH'>
 https://docs.openclinica.com/3.1/openclinica-user-guide/submit-data-module-overview/crf-version-migration#BATCH</a>. </p>
-			
+
+<h3>transfer existing data to a a new version of a CRF</h3>		
 			<p>How familiar is the following scenario for you? You've designed CRFs for a study and all involved are happy.
 			And then you go into production and after three months they come to you and tell you  they want to add an extra item to 
 			one of the CRFs. 
@@ -185,7 +186,7 @@ as <b>Event CRF marked complete</b>.
 </p>
 
 <p>Other how-to-pages can be found <a href='/tds/howto/index.jsp#crfs'>here</a>.</p>
-<p class='pagereviewdate'>this page was last reviewed May 2015</p>
+<p class='pagereviewdate'>this page was last reviewed Feb 2018</p>
 		</div>
 	</div> <!-- /.main -->
 	
