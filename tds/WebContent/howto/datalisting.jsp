@@ -64,8 +64,8 @@ fig. 2: how to get the standard OC-reort
 			
 <h3>where do we start?</h3>
 <p>If you want to use the MsAccess-utility, you start with downloading the <a 
-href='/tds/CRFExamples/DataListing_oc37_20160106.zip' target='_blank'>
-datalisting</a>-file, unzipping it and opening the mdb-file.</p>
+href='/tds/CRFExamples/DataListing_oc312_20180324.zip' target='_blank'>
+datalisting</a>-file, unzipping it and opening the accdb-file.</p>
 <p>(The version above is for OC 3.2 and up. If you are looking for the old version of this utility, suitable for pre
  OC3.2, you can find it <a href='/tds/CRFExamples/DataListing_20120727.zip' target='_blank'>
 here</a>.)</p>
@@ -126,7 +126,7 @@ fig. 7: what did Joe do?
 </p>
 <p>For this page we had lots of input, including code, from Krister Kristianson and Lindsay Stevens: many thanks!</p>
 <p>Other how-to-pages can be found <a href='/tds/howto/index.jsp#other'>here</a>.</p>
-<p class='pagereviewdate'>this page was last reviewed November 2015</p>
+<p class='pagereviewdate'>this page was last reviewed March 2018</p>
 
 
 		</div>
