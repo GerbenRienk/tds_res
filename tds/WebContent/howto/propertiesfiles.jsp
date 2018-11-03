@@ -52,7 +52,7 @@ them in any text-editor. The only problem is that they contain more than 3000 te
 
 <h3>can we make that easier?</h3>
 <p>Very few like to go through such a list and find what they're looking for manually and that's why you can download
-an <a href='/tds/CRFExamples/i18n_oc32_20140414.zip' target='_blank'>MS Access database</a> where all the terms of OpenClinica 3.2 are stored in one big table, called 
+an <a href='/tds/CRFExamples/i18n_20180910.zip' target='_blank'>MS Access database</a> where all the terms of OpenClinica 3.2 - 3.14 are stored in one big table, called 
 <b>tblPropertiesValues</b>.<br />
 (Click <a href='/tds/CRFExamples/i18n_oc313_20130103.zip' target='_blank'>here</a> for OpenClinica pre 3.1.4. and 
 <a href='/tds/CRFExamples/i18n_oc314_20130714.zip' target='_blank'>here</a> for OpenClinica 3.1.4.x)</p>
@@ -127,7 +127,7 @@ restarting OpenClinica. Then click in Firefox <b>Tools</b>, <b>Options</b>  </p>
 database, contact <a href='mailto:GerbenRienk@trialdatasolutions.com' target='_blank'>me</a>. </p>
 
 <p>Other how-to-pages can be found <a href='/tds/howto/index.jsp#other'>here</a>.</p>
-<p class='pagereviewdate'>this page was last reviewed April 2014</p>
+<p class='pagereviewdate'>this page was last reviewed October 2018</p>
 
 		</div>
 
